@@ -1,0 +1,32 @@
+export const mainCardsData = [
+  {
+    id: 1,
+    img: "/images/springtraptest.jpg",
+    alt: "Card Image",
+    tag: "BUILDS",
+    title: "Best Killer Builds",
+    description: `Discover the top killer builds optimized for maximum efficiency and gameplay impact. Explore powerful perks and strategies carefully crafted to dominate the hunt.`,
+    category: ["Killers", "All"],
+    link: "/killer-builds",
+  },
+  {
+    id: 2,
+    img: "/images/survivors.jpg",
+    alt: "Card Image",
+    tag: "BUILDS",
+    title: "Best Survivor Builds",
+    description: `Explore the most effective survivor builds designed to maximize stealth, speed, and teamwork. Unlock powerful perks and strategies to outsmart the killers and escape alive.`,
+    category: ["Survivors", "All"],
+    link: "/survivor-builds",
+  },
+  {
+    id: 3,
+    img: "/images/randombuilds.jpg",
+    alt: "Card Image",
+    tag: "BUILD GENERATOR",
+    title: "Build Generator",
+    description: `Generate random killer or survivor builds instantly. Perfect for trying new strategies and keeping your gameplay fresh and unpredictable.`,
+    category: ["Survivors", "All", "Killers"],
+    link: "/build-generator",
+  },
+];
