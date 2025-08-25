@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom";
 import { useState } from "react";
 import Modal from "../../Modal/Modal";
 import ContentWrapper from "../ContentWrapper";
-import Logo from "/images/Logo.png";
+import Logo from "/images/Logo.webp";
 import Hamburger from "/images/Icons/Hamburger.svg";
 import discord from "/images/Icons/discord.svg";
 import youtube from "/images/Icons/youtube.svg";

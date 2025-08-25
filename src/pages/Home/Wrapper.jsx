@@ -1,6 +1,6 @@
 import Header from "../../Components/Layout/Header/Header";
 import IntroSection from "./IntroSection";
-import backgroundHeader from "/images/background-header.jpeg";
+import backgroundHeader from "/images/background-header.webp";
 
 const Wrapper = () => {
   return (

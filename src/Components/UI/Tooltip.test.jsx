@@ -5,7 +5,7 @@ import PerkTooltip from "./Tooltip";
 
 describe("PerkTooltip component", () => {
   const perk = {
-    perkImg: "test.png",
+    perkImg: "test.webp",
     perkName: "Test Perk",
     perkDescription: "This perk does {0} damage and {1} speed.",
     tunables: [
@@ -19,7 +19,7 @@ describe("PerkTooltip component", () => {
     render(<PerkTooltip {...perk} />);
     const img = screen.getByAltText("Test Perk");
     expect(img).toBeInTheDocument();
-    expect(img).toHaveAttribute("src", "test.png");
+    expect(img).toHaveAttribute("src", "test.webp");
   });
   it("shows tooltip on hover and hides on mouse leave", () => {
     render(<PerkTooltip {...perk} />);

@@ -25,7 +25,7 @@ const SurvivorBuildsDetails = ({ survivor }) => {
           <RoleButton
             className="w-full justify-center"
             label="See More"
-            bgImage="/images/killerbtnbg.png"
+            bgImage="/images/killerbtnbg.webp"
             link={`/survivor-builds/${survivor.shortTitle}`}
           />
         </div>

@@ -7,7 +7,7 @@
     "character": 6,
     "tunables": [["100"], ["50", "75", "100"]],
     "teachable": 40,
-    "image": "/images/perk_icons/ace-in-the-hole.png"
+    "image": "/images/perk_icons/ace-in-the-hole.webp"
   },
   "Adrenaline": {
     "categories": ["navigation", "adaptation"],
@@ -17,7 +17,7 @@
     "character": 1,
     "tunables": [["50"], ["3"], ["60", "50", "40"]],
     "teachable": 40,
-    "image": "/images/perk_icons/adrenaline.png"
+    "image": "/images/perk_icons/adrenaline.webp"
   },
   "Aftercare": {
     "categories": ["perception"],
@@ -30,7 +30,7 @@
       ["1", "2", "3"]
     ],
     "teachable": 35,
-    "image": "/images/perk_icons/aftercare.png"
+    "image": "/images/perk_icons/aftercare.webp"
   },
   "Agitation": {
     "categories": ["enhancement"],
@@ -40,7 +40,7 @@
     "character": 268435456,
     "tunables": [["6", "12", "18"], ["12"]],
     "teachable": 40,
-    "image": "/images/perk_icons/agitation.png"
+    "image": "/images/perk_icons/agitation.webp"
   },
   "Alert": {
     "categories": ["perception"],
@@ -50,7 +50,7 @@
     "character": 8,
     "tunables": [["3", "4", "5"]],
     "teachable": 40,
-    "image": "/images/perk_icons/alert.png"
+    "image": "/images/perk_icons/alert.webp"
   },
   "AnyMeansNecessary": {
     "categories": ["adaptation"],
@@ -60,7 +60,7 @@
     "character": 19,
     "tunables": [["5", "4", "3"]],
     "teachable": 35,
-    "image": "/images/perk_icons/any-means-necessary.png"
+    "image": "/images/perk_icons/any-means-necessary.webp"
   },
   "Autodidact": {
     "categories": ["safeguard"],
@@ -70,7 +70,7 @@
     "character": 13,
     "tunables": [["3", "4", "5"], ["15"], ["15"]],
     "teachable": 40,
-    "image": "/images/perk_icons/autodidact.png"
+    "image": "/images/perk_icons/autodidact.webp"
   },
   "Babysitter": {
     "categories": ["safeguard", "concealment"],
@@ -80,7 +80,7 @@
     "character": 18,
     "tunables": [["10"], ["20", "25", "30"], ["8"]],
     "teachable": 30,
-    "image": "/images/perk_icons/babysitter.png"
+    "image": "/images/perk_icons/babysitter.webp"
   },
   "Balanced_Landing": {
     "categories": ["navigation"],
@@ -90,7 +90,7 @@
     "character": 4,
     "tunables": [["75"], ["50"], ["3"], ["60", "50", "40"]],
     "teachable": 30,
-    "image": "/images/perk_icons/balanced-landing.png"
+    "image": "/images/perk_icons/balanced-landing.webp"
   },
   "Bamboozle": {
     "categories": ["chasing", "trickery"],
@@ -103,7 +103,7 @@
       ["8", "12", "16"]
     ],
     "teachable": 30,
-    "image": "/images/perk_icons/bamboozle.png"
+    "image": "/images/perk_icons/bamboozle.webp"
   },
   "BBQAndChilli": {
     "categories": ["tracking"],
@@ -113,7 +113,7 @@
     "character": 268435464,
     "tunables": [["5"], ["60", "50", "40"]],
     "teachable": 35,
-    "image": "/images/perk_icons/barbecue-chili.png"
+    "image": "/images/perk_icons/barbecue-chili.webp"
   },
   "BeastOfPrey": {
     "categories": ["chasing"],
@@ -123,7 +123,7 @@
     "character": 268435463,
     "tunables": [["30", "35", "40"]],
     "teachable": 30,
-    "image": "/images/perk_icons/beast-of-prey.png"
+    "image": "/images/perk_icons/beast-of-prey.webp"
   },
   "BetterTogether": {
     "categories": ["perception"],
@@ -133,7 +133,7 @@
     "character": 17,
     "tunables": [["128"], ["20", "25", "30"]],
     "teachable": 30,
-    "image": "/images/perk_icons/better-together.png"
+    "image": "/images/perk_icons/better-together.webp"
   },
   "Bitter_Murmur": {
     "categories": ["tracking"],
@@ -143,7 +143,7 @@
     "character": null,
     "tunables": [["16"], ["5"], ["5", "7", "10"]],
     "teachable": 0,
-    "image": "/images/perk_icons/bitter-murmur.png"
+    "image": "/images/perk_icons/bitter-murmur.webp"
   },
   "BloodEcho": {
     "categories": ["hinderance"],
@@ -153,7 +153,7 @@
     "character": 268435473,
     "tunables": [["20", "25", "30"]],
     "teachable": 35,
-    "image": "/images/perk_icons/blood-echo.png"
+    "image": "/images/perk_icons/blood-echo.webp"
   },
   "BloodHound": {
     "categories": ["tracking"],
@@ -163,7 +163,7 @@
     "character": 268435457,
     "tunables": [["2", "3", "4"]],
     "teachable": 35,
-    "image": "/images/perk_icons/bloodhound.png"
+    "image": "/images/perk_icons/bloodhound.webp"
   },
   "BloodPact": {
     "categories": ["perception", "support"],
@@ -176,7 +176,7 @@
       ["5", "6", "7"]
     ],
     "teachable": 35,
-    "image": "/images/perk_icons/blood-pact.png"
+    "image": "/images/perk_icons/blood-pact.webp"
   },
   "BloodWarden": {
     "categories": ["trickery", "obstruction"],
@@ -186,7 +186,7 @@
     "character": 268435465,
     "tunables": [["40", "50", "60"]],
     "teachable": 40,
-    "image": "/images/perk_icons/blood-warden.png"
+    "image": "/images/perk_icons/blood-warden.webp"
   },
   "BoilOver": {
     "categories": ["adaptation"],
@@ -196,7 +196,7 @@
     "character": 10,
     "tunables": [["60", "70", "80"], ["16"], ["33"]],
     "teachable": 40,
-    "image": "/images/perk_icons/boil-over.png"
+    "image": "/images/perk_icons/boil-over.webp"
   },
   "Bond": {
     "categories": ["perception"],
@@ -206,7 +206,7 @@
     "character": 0,
     "tunables": [["20", "28", "36"]],
     "teachable": 30,
-    "image": "/images/perk_icons/bond.png"
+    "image": "/images/perk_icons/bond.webp"
   },
   "BoonDestroyer": {
     "categories": null,
@@ -216,7 +216,7 @@
     "character": null,
     "tunables": [["6", "7", "8"]],
     "teachable": 0,
-    "image": "/images/perk_icons/shattered-hope.png"
+    "image": "/images/perk_icons/shattered-hope.webp"
   },
   "BorrowedTime": {
     "categories": ["safeguard"],
@@ -226,7 +226,7 @@
     "character": 7,
     "tunables": [["6", "8", "10"]],
     "teachable": 35,
-    "image": "/images/perk_icons/borrowed-time.png"
+    "image": "/images/perk_icons/borrowed-time.webp"
   },
   "Botany_Knowledge": {
     "categories": ["safeguard"],
@@ -236,7 +236,7 @@
     "character": 2,
     "tunables": [["30", "40", "50"], ["0"]],
     "teachable": 35,
-    "image": "/images/perk_icons/botany-knowledge.png"
+    "image": "/images/perk_icons/botany-knowledge.webp"
   },
   "Breakdown": {
     "categories": ["adaptation"],
@@ -246,7 +246,7 @@
     "character": 14,
     "tunables": [["4", "5", "6"]],
     "teachable": 30,
-    "image": "/images/perk_icons/breakdown.png"
+    "image": "/images/perk_icons/breakdown.webp"
   },
   "Breakout": {
     "categories": ["safeguard"],
@@ -256,7 +256,7 @@
     "character": 19,
     "tunables": [["5"], ["6", "8", "10"], ["25"]],
     "teachable": 40,
-    "image": "/images/perk_icons/breakout.png"
+    "image": "/images/perk_icons/breakout.webp"
   },
   "Brutal_Strength": {
     "categories": ["enhancement"],
@@ -266,7 +266,7 @@
     "character": 268435456,
     "tunables": [["10", "15", "20"]],
     "teachable": 35,
-    "image": "/images/perk_icons/brutal-strength.png"
+    "image": "/images/perk_icons/brutal-strength.webp"
   },
   "BuckleUp": {
     "categories": ["perception"],
@@ -276,7 +276,7 @@
     "character": 16,
     "tunables": [["50"], ["3", "4", "5"]],
     "teachable": 35,
-    "image": "/images/perk_icons/buckle-up.png"
+    "image": "/images/perk_icons/buckle-up.webp"
   },
   "BuiltToLast": {
     "categories": ["adaptation"],
@@ -286,7 +286,7 @@
     "character": 22,
     "tunables": [["14", "12", "10"], ["99"], ["33"]],
     "teachable": 40,
-    "image": "/images/perk_icons/built-to-last.png"
+    "image": "/images/perk_icons/built-to-last.webp"
   },
   "Calm_Spirit": {
     "categories": ["concealment"],
@@ -296,7 +296,7 @@
     "character": 3,
     "tunables": [["40", "35", "30"]],
     "teachable": 35,
-    "image": "/images/perk_icons/calm-spirit.png"
+    "image": "/images/perk_icons/calm-spirit.webp"
   },
   "Camaraderie": {
     "categories": ["adaptation"],
@@ -306,7 +306,7 @@
     "character": 18,
     "tunables": [["16"], ["26", "30", "34"]],
     "teachable": 35,
-    "image": "/images/perk_icons/camaraderie.png"
+    "image": "/images/perk_icons/camaraderie.webp"
   },
   "CorruptIntervention": {
     "categories": ["obstruction"],
@@ -316,7 +316,7 @@
     "character": 268435470,
     "tunables": [["3"], ["80", "100", "120"]],
     "teachable": 30,
-    "image": "/images/perk_icons/corrupt-intervention.png"
+    "image": "/images/perk_icons/corrupt-intervention.webp"
   },
   "Coulrophobia": {
     "categories": ["hinderance"],
@@ -326,7 +326,7 @@
     "character": 268435467,
     "tunables": [["30", "40", "50"]],
     "teachable": 35,
-    "image": "/images/perk_icons/coulrophobia.png"
+    "image": "/images/perk_icons/coulrophobia.webp"
   },
   "CruelConfinement": {
     "categories": ["trickery"],
@@ -336,7 +336,7 @@
     "character": 268435472,
     "tunables": [["20", "25", "30"]],
     "teachable": 40,
-    "image": "/images/perk_icons/cruel-limits.png"
+    "image": "/images/perk_icons/cruel-limits.webp"
   },
   "Dance_with_me": {
     "categories": ["concealment"],
@@ -346,7 +346,7 @@
     "character": 10,
     "tunables": [["5"], ["25", "20", "15"]],
     "teachable": 30,
-    "image": "/images/perk_icons/dance-with-me.png"
+    "image": "/images/perk_icons/dance-with-me.webp"
   },
   "Dark_Sense": {
     "categories": ["perception"],
@@ -356,7 +356,7 @@
     "character": null,
     "tunables": [["5", "7", "10"]],
     "teachable": 0,
-    "image": "/images/perk_icons/dark-sense.png"
+    "image": "/images/perk_icons/dark-sense.webp"
   },
   "DarkDevotion": {
     "categories": ["trickery"],
@@ -366,7 +366,7 @@
     "character": 268435470,
     "tunables": [["40"], ["35", "40", "45"]],
     "teachable": 40,
-    "image": "/images/perk_icons/dark-devotion.png"
+    "image": "/images/perk_icons/dark-devotion.webp"
   },
   "DeadHard": {
     "categories": ["navigation", "adaptation"],
@@ -376,7 +376,7 @@
     "character": 9,
     "tunables": [["60", "50", "40"]],
     "teachable": 35,
-    "image": "/images/perk_icons/dead-hard.png"
+    "image": "/images/perk_icons/dead-hard.webp"
   },
   "DeadMansSwitch": {
     "categories": ["obstruction"],
@@ -386,7 +386,7 @@
     "character": 268435474,
     "tunables": [["40", "45", "50"]],
     "teachable": 35,
-    "image": "/images/perk_icons/dead-mans-switch.png"
+    "image": "/images/perk_icons/dead-mans-switch.webp"
   },
   "Deathbound": {
     "categories": ["trickery", "tracking"],
@@ -396,7 +396,7 @@
     "character": 268435475,
     "tunables": [["12", "8", "4"]],
     "teachable": 40,
-    "image": "/images/perk_icons/deathbound.png"
+    "image": "/images/perk_icons/deathbound.webp"
   },
   "DecisiveStrike": {
     "categories": ["adaptation"],
@@ -406,7 +406,7 @@
     "character": 5,
     "tunables": [["40", "50", "60"], ["4"]],
     "teachable": 40,
-    "image": "/images/perk_icons/decisive-strike.png"
+    "image": "/images/perk_icons/decisive-strike.webp"
   },
   "Deerstalker": {
     "categories": ["tracking"],
@@ -416,7 +416,7 @@
     "character": null,
     "tunables": [["20", "28", "36"]],
     "teachable": 0,
-    "image": "/images/perk_icons/deerstalker.png"
+    "image": "/images/perk_icons/deerstalker.webp"
   },
   "Deja_Vu": {
     "categories": ["perception"],
@@ -426,7 +426,7 @@
     "character": null,
     "tunables": [["4", "5", "6"]],
     "teachable": 0,
-    "image": "/images/perk_icons/deja-vu.png"
+    "image": "/images/perk_icons/deja-vu.webp"
   },
   "Deliverance": {
     "categories": ["adaptation"],
@@ -436,7 +436,7 @@
     "character": 13,
     "tunables": [["100", "80", "60"]],
     "teachable": 35,
-    "image": "/images/perk_icons/deliverance.png"
+    "image": "/images/perk_icons/deliverance.webp"
   },
   "DesperateMeasures": {
     "categories": ["safeguard"],
@@ -446,7 +446,7 @@
     "character": 22,
     "tunables": [["10", "12", "14"]],
     "teachable": 35,
-    "image": "/images/perk_icons/desperate-measures.png"
+    "image": "/images/perk_icons/desperate-measures.webp"
   },
   "DetectivesHunch": {
     "categories": ["perception"],
@@ -456,7 +456,7 @@
     "character": 12,
     "tunables": [["32", "48", "64"], ["20"]],
     "teachable": 35,
-    "image": "/images/perk_icons/detectives-hunch.png"
+    "image": "/images/perk_icons/detectives-hunch.webp"
   },
   "Discordance": {
     "categories": ["obstruction"],
@@ -466,7 +466,7 @@
     "character": 268435469,
     "tunables": [["64", "96", "128"]],
     "teachable": 30,
-    "image": "/images/perk_icons/discordance.png"
+    "image": "/images/perk_icons/discordance.webp"
   },
   "Distortion": {
     "categories": ["concealment"],
@@ -476,7 +476,7 @@
     "character": 14,
     "tunables": [["1"], ["8", "10", "12"], ["15"], ["2"]],
     "teachable": 40,
-    "image": "/images/perk_icons/distortion.png"
+    "image": "/images/perk_icons/distortion.webp"
   },
   "Distressing": {
     "categories": ["trickery"],
@@ -486,7 +486,7 @@
     "character": null,
     "tunables": [["20", "25", "30"]],
     "teachable": 0,
-    "image": "/images/perk_icons/distressing.png"
+    "image": "/images/perk_icons/distressing.webp"
   },
   "Diversion": {
     "categories": ["concealment"],
@@ -496,7 +496,7 @@
     "character": 13,
     "tunables": [["30", "25", "20"]],
     "teachable": 30,
-    "image": "/images/perk_icons/diversion.png"
+    "image": "/images/perk_icons/diversion.webp"
   },
   "DragonsGrip": {
     "categories": ["hinderance"],
@@ -506,7 +506,7 @@
     "character": 268435476,
     "tunables": [["30"], ["4"], ["60"], ["60", "45", "30"]],
     "teachable": 30,
-    "image": "/images/perk_icons/dragons-grip.png"
+    "image": "/images/perk_icons/dragons-grip.webp"
   },
   "Dying_Light": {
     "categories": ["hinderance"],
@@ -516,7 +516,7 @@
     "character": 268435461,
     "tunables": [["33"], ["2", "2.5", "3"]],
     "teachable": 40,
-    "image": "/images/perk_icons/dying-light.png"
+    "image": "/images/perk_icons/dying-light.webp"
   },
   "Empathy": {
     "categories": ["perception"],
@@ -526,7 +526,7 @@
     "character": 2,
     "tunables": [["64", "96", "128"]],
     "teachable": 30,
-    "image": "/images/perk_icons/empathy.png"
+    "image": "/images/perk_icons/empathy.webp"
   },
   "Enduring": {
     "categories": ["enhancement"],
@@ -536,7 +536,7 @@
     "character": 268435458,
     "tunables": [["40", "45", "50"]],
     "teachable": 30,
-    "image": "/images/perk_icons/enduring.png"
+    "image": "/images/perk_icons/enduring.webp"
   },
   "FireUp": {
     "categories": ["enhancement"],
@@ -546,7 +546,7 @@
     "character": 268435465,
     "tunables": [["4", "5", "6"]],
     "teachable": 30,
-    "image": "/images/perk_icons/fire-up.png"
+    "image": "/images/perk_icons/fire-up.webp"
   },
   "Fixated": {
     "categories": ["navigation"],
@@ -556,7 +556,7 @@
     "character": 17,
     "tunables": [["10", "15", "20"]],
     "teachable": 35,
-    "image": "/images/perk_icons/fixated.png"
+    "image": "/images/perk_icons/fixated.webp"
   },
   "FlipFlop": {
     "categories": ["adaptation"],
@@ -566,7 +566,7 @@
     "character": 16,
     "tunables": [["50"], ["40", "45", "50"]],
     "teachable": 30,
-    "image": "/images/perk_icons/flip-flop.png"
+    "image": "/images/perk_icons/flip-flop.webp"
   },
   "ForcedPenance": {
     "categories": ["hinderance"],
@@ -576,7 +576,7 @@
     "character": 268435475,
     "tunables": [["60", "70", "80"]],
     "teachable": 30,
-    "image": "/images/perk_icons/forced-penance.png"
+    "image": "/images/perk_icons/forced-penance.webp"
   },
   "ForThePeople": {
     "categories": ["safeguard"],
@@ -586,7 +586,7 @@
     "character": 20,
     "tunables": [["80", "70", "60"]],
     "teachable": 40,
-    "image": "/images/perk_icons/for-the-people.png"
+    "image": "/images/perk_icons/for-the-people.webp"
   },
   "FranklinsLoss": {
     "categories": ["cruelty"],
@@ -596,7 +596,7 @@
     "character": 268435464,
     "tunables": [["32", "48", "64"]],
     "teachable": 40,
-    "image": "/images/perk_icons/franklins-demise.png"
+    "image": "/images/perk_icons/franklins-demise.webp"
   },
   "FurtiveChase": {
     "categories": ["chasing", "trickery"],
@@ -606,7 +606,7 @@
     "character": 268435471,
     "tunables": [["10"], ["14", "16", "18"]],
     "teachable": 40,
-    "image": "/images/perk_icons/furtive-chase.png"
+    "image": "/images/perk_icons/furtive-chase.webp"
   },
   "Gearhead": {
     "categories": ["tracking"],
@@ -616,7 +616,7 @@
     "character": 268435474,
     "tunables": [["30"], ["6", "7", "8"]],
     "teachable": 30,
-    "image": "/images/perk_icons/gearhead.png"
+    "image": "/images/perk_icons/gearhead.webp"
   },
   "GeneratorOvercharge": {
     "categories": ["obstruction"],
@@ -626,7 +626,7 @@
     "character": 268435462,
     "tunables": [["2", "3", "4"]],
     "teachable": 40,
-    "image": "/images/perk_icons/overcharge.png"
+    "image": "/images/perk_icons/overcharge.webp"
   },
   "HangmansTrick": {
     "categories": ["obstruction"],
@@ -636,7 +636,7 @@
     "character": 268435466,
     "tunables": [["12", "14", "16"]],
     "teachable": 30,
-    "image": "/images/perk_icons/scourge-hook-hangmans-trick.png"
+    "image": "/images/perk_icons/scourge-hook-hangmans-trick.webp"
   },
   "HeadOn": {
     "categories": ["adaptation"],
@@ -646,7 +646,7 @@
     "character": 15,
     "tunables": [["3"], ["3"], ["60", "50", "40"]],
     "teachable": 40,
-    "image": "/images/perk_icons/head-on.png"
+    "image": "/images/perk_icons/head-on.webp"
   },
   "Hex_Devour_Hope": {
     "categories": ["trickery"],
@@ -656,7 +656,7 @@
     "character": 268435460,
     "tunables": [["3", "4", "5"]],
     "teachable": 40,
-    "image": "/images/perk_icons/hex-devour-hope.png"
+    "image": "/images/perk_icons/hex-devour-hope.webp"
   },
   "Hex_HauntedGround": {
     "categories": ["trickery"],
@@ -666,7 +666,7 @@
     "character": 268435468,
     "tunables": [["40", "50", "60"]],
     "teachable": 35,
-    "image": "/images/perk_icons/hex-haunted-ground.png"
+    "image": "/images/perk_icons/hex-haunted-ground.webp"
   },
   "Hex_HuntressLullaby": {
     "categories": ["obstruction"],
@@ -676,7 +676,7 @@
     "character": 268435463,
     "tunables": [["2", "4", "6"]],
     "teachable": 40,
-    "image": "/images/perk_icons/hex-huntress-lullaby.png"
+    "image": "/images/perk_icons/hex-huntress-lullaby.webp"
   },
   "Hex_Ruin": {
     "categories": ["obstruction"],
@@ -686,7 +686,7 @@
     "character": 268435460,
     "tunables": [["50", "75", "100"], ["0"]],
     "teachable": 35,
-    "image": "/images/perk_icons/hex-ruin.png"
+    "image": "/images/perk_icons/hex-ruin.webp"
   },
   "Hex_The_Third_Seal": {
     "categories": ["cruelty"],
@@ -696,7 +696,7 @@
     "character": 268435460,
     "tunables": [["2", "3", "4"]],
     "teachable": 30,
-    "image": "/images/perk_icons/hex-the-third-seal.png"
+    "image": "/images/perk_icons/hex-the-third-seal.webp"
   },
   "Hex_Thrill_Of_The_Hunt": {
     "categories": ["obstruction"],
@@ -706,7 +706,7 @@
     "character": null,
     "tunables": [["8", "10", "12"]],
     "teachable": 0,
-    "image": "/images/perk_icons/hex-thrill-of-the-hunt.png"
+    "image": "/images/perk_icons/hex-thrill-of-the-hunt.webp"
   },
   "HexBloodFavor": {
     "categories": ["chasing"],
@@ -716,7 +716,7 @@
     "character": 268435476,
     "tunables": [["24", "28", "32"], ["15"]],
     "teachable": 35,
-    "image": "/images/perk_icons/hex-blood-favor.png"
+    "image": "/images/perk_icons/hex-blood-favor.webp"
   },
   "HexRetribution": {
     "categories": ["trickery", "tracking"],
@@ -726,7 +726,7 @@
     "character": 268435474,
     "tunables": [["40", "50", "60"], ["20"]],
     "teachable": 40,
-    "image": "/images/perk_icons/hex-retribution.png"
+    "image": "/images/perk_icons/hex-retribution.webp"
   },
   "HexUndying": {
     "categories": ["obstruction", "tracking"],
@@ -736,7 +736,7 @@
     "character": 268435476,
     "tunables": [["2", "3", "4"]],
     "teachable": 40,
-    "image": "/images/perk_icons/hex-undying.png"
+    "image": "/images/perk_icons/hex-undying.webp"
   },
   "Hope": {
     "categories": ["navigation"],
@@ -746,7 +746,7 @@
     "character": null,
     "tunables": [["5", "6", "7"], ["120"]],
     "teachable": 0,
-    "image": "/images/perk_icons/hope.png"
+    "image": "/images/perk_icons/hope.webp"
   },
   "ImAllEars": {
     "categories": ["tracking"],
@@ -756,7 +756,7 @@
     "character": 268435471,
     "tunables": [["8"], ["60", "45", "30"]],
     "teachable": 30,
-    "image": "/images/perk_icons/im-all-ears.png"
+    "image": "/images/perk_icons/im-all-ears.webp"
   },
   "InfectiousFright": {
     "categories": ["tracking"],
@@ -766,7 +766,7 @@
     "character": 268435470,
     "tunables": [["4", "5", "6"]],
     "teachable": 35,
-    "image": "/images/perk_icons/infectious-fright.png"
+    "image": "/images/perk_icons/infectious-fright.webp"
   },
   "InnerStrength": {
     "categories": ["adaptation"],
@@ -776,7 +776,7 @@
     "character": 17,
     "tunables": [["10", "9", "8"]],
     "teachable": 40,
-    "image": "/images/perk_icons/inner-strength.png"
+    "image": "/images/perk_icons/inner-strength.webp"
   },
   "Insidious": {
     "categories": ["trickery"],
@@ -786,7 +786,7 @@
     "character": null,
     "tunables": [["3", "2", "1"], ["0"]],
     "teachable": 0,
-    "image": "/images/perk_icons/insidious.png"
+    "image": "/images/perk_icons/insidious.webp"
   },
   "InTheDark": {
     "categories": ["trickery"],
@@ -796,7 +796,7 @@
     "character": 268435464,
     "tunables": [["6"], ["6"], ["5"], ["3", "4", "5"]],
     "teachable": 30,
-    "image": "/images/perk_icons/knock-out.png"
+    "image": "/images/perk_icons/knock-out.webp"
   },
   "Iron_Grasp": {
     "categories": ["enhancement"],
@@ -806,7 +806,7 @@
     "character": null,
     "tunables": [["75"], ["4", "8", "12"]],
     "teachable": 0,
-    "image": "/images/perk_icons/iron-grasp.png"
+    "image": "/images/perk_icons/iron-grasp.webp"
   },
   "Iron_Will": {
     "categories": ["concealment"],
@@ -816,7 +816,7 @@
     "character": 3,
     "tunables": [["80", "90", "100"]],
     "teachable": 30,
-    "image": "/images/perk_icons/iron-will.png"
+    "image": "/images/perk_icons/iron-will.webp"
   },
   "Ironmaiden": {
     "categories": ["tracking", "trickery"],
@@ -826,7 +826,7 @@
     "character": 268435469,
     "tunables": [["30", "40", "50"], ["4"], ["30"]],
     "teachable": 40,
-    "image": "/images/perk_icons/iron-maiden.png"
+    "image": "/images/perk_icons/iron-maiden.webp"
   },
   "K22P01": {
     "categories": ["tracking"],
@@ -836,7 +836,7 @@
     "character": 268435477,
     "tunables": [["32", "48", "64"], ["2"]],
     "teachable": 30,
-    "image": "/images/perk_icons/hoarder.png"
+    "image": "/images/perk_icons/hoarder.webp"
   },
   "K22P02": {
     "categories": ["obstruction"],
@@ -846,7 +846,7 @@
     "character": 268435477,
     "tunables": [["3"], ["60", "50", "40"]],
     "teachable": 35,
-    "image": "/images/perk_icons/oppression.png"
+    "image": "/images/perk_icons/oppression.webp"
   },
   "K22P03": {
     "categories": ["cruelty"],
@@ -856,7 +856,7 @@
     "character": 268435477,
     "tunables": [["70", "75", "80"]],
     "teachable": 40,
-    "image": "/images/perk_icons/coup-de-grace.png"
+    "image": "/images/perk_icons/coup-de-grace.webp"
   },
   "K23P01": {
     "categories": ["cruelty"],
@@ -866,7 +866,7 @@
     "character": 268435478,
     "tunables": [["26", "28", "30"], ["60"]],
     "teachable": 30,
-    "image": "/images/perk_icons/starstruck.png"
+    "image": "/images/perk_icons/starstruck.webp"
   },
   "K23P02": {
     "categories": ["chasing"],
@@ -876,7 +876,7 @@
     "character": 268435478,
     "tunables": [["3", "4", "5"]],
     "teachable": 35,
-    "image": "/images/perk_icons/hex-crowd-control.png"
+    "image": "/images/perk_icons/hex-crowd-control.webp"
   },
   "K23P03": {
     "categories": ["obstruction"],
@@ -886,7 +886,7 @@
     "character": 268435478,
     "tunables": [["12"], ["6", "9", "12"]],
     "teachable": 40,
-    "image": "/images/perk_icons/no-way-out.png"
+    "image": "/images/perk_icons/no-way-out.webp"
   },
   "K24P01": {
     "categories": ["tracking"],
@@ -896,7 +896,7 @@
     "character": 268435479,
     "tunables": [["7", "8", "9"]],
     "teachable": 30,
-    "image": "/images/perk_icons/lethal-pursuer.png"
+    "image": "/images/perk_icons/lethal-pursuer.webp"
   },
   "K24P02": {
     "categories": ["trickery"],
@@ -906,7 +906,7 @@
     "character": 268435479,
     "tunables": [["30", "35", "40"], ["20"]],
     "teachable": 35,
-    "image": "/images/perk_icons/hysteria.png"
+    "image": "/images/perk_icons/hysteria.webp"
   },
   "K24P03": {
     "categories": ["obstruction"],
@@ -916,7 +916,7 @@
     "character": 268435479,
     "tunables": [["10"], ["8", "10", "12"], ["30"]],
     "teachable": 40,
-    "image": "/images/perk_icons/eruption.png"
+    "image": "/images/perk_icons/eruption.webp"
   },
   "K25P01": {
     "categories": null,
@@ -926,7 +926,7 @@
     "character": 268435480,
     "tunables": [["15", "20", "25"]],
     "teachable": 0,
-    "image": "/images/perk_icons/deadlock.png"
+    "image": "/images/perk_icons/deadlock.webp"
   },
   "K25P02": {
     "categories": null,
@@ -936,7 +936,7 @@
     "character": 268435480,
     "tunables": [["24", "20", "16"], ["90"]],
     "teachable": 0,
-    "image": "/images/perk_icons/hex-plaything.png"
+    "image": "/images/perk_icons/hex-plaything.webp"
   },
   "K25P03": {
     "categories": null,
@@ -946,7 +946,7 @@
     "character": 268435480,
     "tunables": [["4"], ["90"], ["10", "13", "16"]],
     "teachable": 0,
-    "image": "/images/perk_icons/scourge-hook-gift-of-pain.png"
+    "image": "/images/perk_icons/scourge-hook-gift-of-pain.webp"
   },
   "K26P01": {
     "categories": null,
@@ -956,7 +956,7 @@
     "character": 268435481,
     "tunables": [["6", "8", "10"], ["4"], ["40"], ["6"]],
     "teachable": 30,
-    "image": "/images/perk_icons/grim-embrace.png"
+    "image": "/images/perk_icons/grim-embrace.webp"
   },
   "K26P02": {
     "categories": null,
@@ -966,7 +966,7 @@
     "character": 268435481,
     "tunables": [["4"], ["10", "15", "20"]],
     "teachable": 35,
-    "image": "/images/perk_icons/scourge-hook-pain-resonance.png"
+    "image": "/images/perk_icons/scourge-hook-pain-resonance.webp"
   },
   "K26P03": {
     "categories": null,
@@ -976,7 +976,7 @@
     "character": 268435481,
     "tunables": [["20"], ["1", "2", "3"], ["16"]],
     "teachable": 40,
-    "image": "/images/perk_icons/hex-pentimento.png"
+    "image": "/images/perk_icons/hex-pentimento.webp"
   },
   "K27P01": {
     "categories": null,
@@ -986,7 +986,7 @@
     "character": 268435482,
     "tunables": [["4"], ["5", "6", "7"]],
     "teachable": 30,
-    "image": "/images/perk_icons/scourge-hook-floods-of-rage.png"
+    "image": "/images/perk_icons/scourge-hook-floods-of-rage.webp"
   },
   "K27P02": {
     "categories": null,
@@ -999,7 +999,7 @@
       ["130", "140", "150"]
     ],
     "teachable": 35,
-    "image": "/images/perk_icons/call-of-brine.png"
+    "image": "/images/perk_icons/call-of-brine.webp"
   },
   "K27P03": {
     "categories": null,
@@ -1009,7 +1009,7 @@
     "character": 268435482,
     "tunables": [["90"], ["16", "18", "20"]],
     "teachable": 40,
-    "image": "/images/perk_icons/merciless-storm.png"
+    "image": "/images/perk_icons/merciless-storm.webp"
   },
   "K28P01": {
     "categories": null,
@@ -1019,7 +1019,7 @@
     "character": 268435483,
     "tunables": [["12", "16", "20"], ["3"]],
     "teachable": 30,
-    "image": "/images/perk_icons/dissolution.png"
+    "image": "/images/perk_icons/dissolution.webp"
   },
   "K28P02": {
     "categories": null,
@@ -1029,7 +1029,7 @@
     "character": 268435483,
     "tunables": [["6", "7", "8"], ["30"], ["8"]],
     "teachable": 35,
-    "image": "/images/perk_icons/darkness-revealed.png"
+    "image": "/images/perk_icons/darkness-revealed.webp"
   },
   "K28P03": {
     "categories": null,
@@ -1039,7 +1039,7 @@
     "character": 268435483,
     "tunables": [["6", "8", "10"]],
     "teachable": 40,
-    "image": "/images/perk_icons/septic-touch.png"
+    "image": "/images/perk_icons/septic-touch.webp"
   },
   "K29P01": {
     "categories": null,
@@ -1049,7 +1049,7 @@
     "character": 268435484,
     "tunables": [["30", "35", "40"], ["12"], ["25"]],
     "teachable": 30,
-    "image": "/images/perk_icons/superior-anatomy.png"
+    "image": "/images/perk_icons/superior-anatomy.webp"
   },
   "K29P02": {
     "categories": null,
@@ -1059,7 +1059,7 @@
     "character": 268435484,
     "tunables": [["16", "18", "20"], ["2"]],
     "teachable": 35,
-    "image": "/images/perk_icons/awakened-awareness.png"
+    "image": "/images/perk_icons/awakened-awareness.webp"
   },
   "K29P03": {
     "categories": null,
@@ -1069,7 +1069,7 @@
     "character": 268435484,
     "tunables": [["35", "40", "45"]],
     "teachable": 40,
-    "image": "/images/perk_icons/terminus.png"
+    "image": "/images/perk_icons/terminus.webp"
   },
   "K30P01": {
     "categories": null,
@@ -1079,7 +1079,7 @@
     "character": 268435485,
     "tunables": [["24"], ["3", "4", "5"]],
     "teachable": 30,
-    "image": "/images/perk_icons/nowhere-to-hide.png"
+    "image": "/images/perk_icons/nowhere-to-hide.webp"
   },
   "K30P02": {
     "categories": null,
@@ -1089,7 +1089,7 @@
     "character": 268435485,
     "tunables": [["35", "30", "25"], ["2"]],
     "teachable": 35,
-    "image": "/images/perk_icons/hex-face-the-darkness.png"
+    "image": "/images/perk_icons/hex-face-the-darkness.webp"
   },
   "K30P03": {
     "categories": null,
@@ -1099,7 +1099,7 @@
     "character": 268435485,
     "tunables": [["20", "25", "30"], ["20"]],
     "teachable": 40,
-    "image": "/images/perk_icons/hubris.png"
+    "image": "/images/perk_icons/hubris.webp"
   },
   "K31P01": {
     "categories": ["enhancement", "cruelty"],
@@ -1109,7 +1109,7 @@
     "character": 268435486,
     "tunables": [["7"], ["8", "9", "10"]],
     "teachable": 30,
-    "image": "/images/perk_icons/game-afoot.png"
+    "image": "/images/perk_icons/game-afoot.webp"
   },
   "K31P02": {
     "categories": ["tracking", "trickery"],
@@ -1119,7 +1119,7 @@
     "character": 268435486,
     "tunables": [["3"], ["36"], ["4", "5", "6"], ["1"]],
     "teachable": 35,
-    "image": "/images/perk_icons/thwack.png"
+    "image": "/images/perk_icons/thwack.webp"
   },
   "K31P03": {
     "categories": ["hinderance"],
@@ -1129,7 +1129,7 @@
     "character": 268435486,
     "tunables": [["30", "40", "50"], ["30"]],
     "teachable": 40,
-    "image": "/images/perk_icons/leverage.png"
+    "image": "/images/perk_icons/leverage.webp"
   },
   "K32P01": {
     "categories": ["hinderance"],
@@ -1139,7 +1139,7 @@
     "character": 268435487,
     "tunables": [["6", "7", "8"]],
     "teachable": 30,
-    "image": "/images/perk_icons/genetic-limits.png"
+    "image": "/images/perk_icons/genetic-limits.webp"
   },
   "K32P02": {
     "categories": ["cruelty", "hinderance"],
@@ -1149,7 +1149,7 @@
     "character": 268435487,
     "tunables": [["16"], ["10"], ["20"], ["40", "35", "30"]],
     "teachable": 35,
-    "image": "/images/perk_icons/forced-hesitation.png"
+    "image": "/images/perk_icons/forced-hesitation.webp"
   },
   "K32P03": {
     "categories": ["enhancement", "chasing"],
@@ -1159,7 +1159,7 @@
     "character": 268435487,
     "tunables": [["8"], ["40", "50", "60"]],
     "teachable": 40,
-    "image": "/images/perk_icons/machine-learning.png"
+    "image": "/images/perk_icons/machine-learning.webp"
   },
   "K33P01": {
     "categories": null,
@@ -1169,7 +1169,7 @@
     "character": 268435488,
     "tunables": [["32"], ["30"], ["80", "70", "60"]],
     "teachable": 30,
-    "image": "/images/perk_icons/ultimate-weapon.png"
+    "image": "/images/perk_icons/ultimate-weapon.webp"
   },
   "K33P02": {
     "categories": null,
@@ -1179,7 +1179,7 @@
     "character": 268435488,
     "tunables": [["5"], ["8", "9", "10"]],
     "teachable": 35,
-    "image": "/images/perk_icons/rapid-brutality.png"
+    "image": "/images/perk_icons/rapid-brutality.webp"
   },
   "K33P03": {
     "categories": null,
@@ -1189,7 +1189,7 @@
     "character": 268435488,
     "tunables": [["8"], ["40", "50", "60"]],
     "teachable": 40,
-    "image": "/images/perk_icons/alien-instinct.png"
+    "image": "/images/perk_icons/alien-instinct.webp"
   },
   "K34P01": {
     "categories": ["trickery"],
@@ -1199,7 +1199,7 @@
     "character": 268435489,
     "tunables": [["4", "3", "2"], ["1.5"]],
     "teachable": 30,
-    "image": "/images/perk_icons/hex-two-can-play.png"
+    "image": "/images/perk_icons/hex-two-can-play.webp"
   },
   "K34P02": {
     "categories": ["trickery"],
@@ -1209,7 +1209,7 @@
     "character": 268435489,
     "tunables": [["20"], ["6", "8", "10"]],
     "teachable": 35,
-    "image": "/images/perk_icons/friends-til-the-end.png"
+    "image": "/images/perk_icons/friends-til-the-end.webp"
   },
   "K34P03": {
     "categories": ["enhancement"],
@@ -1219,7 +1219,7 @@
     "character": 268435489,
     "tunables": [["16"], ["5"], ["1", "3", "5"]],
     "teachable": 40,
-    "image": "/images/perk_icons/batteries-included.png"
+    "image": "/images/perk_icons/batteries-included.webp"
   },
   "K35P01": {
     "categories": null,
@@ -1229,7 +1229,7 @@
     "character": 268435490,
     "tunables": [["24", "27", "30"], ["7"], ["10"]],
     "teachable": 30,
-    "image": "/images/perk_icons/unbound.png"
+    "image": "/images/perk_icons/unbound.webp"
   },
   "K35P02": {
     "categories": null,
@@ -1239,7 +1239,7 @@
     "character": 268435490,
     "tunables": [["22", "26", "30"], ["32"], ["30"]],
     "teachable": 35,
-    "image": "/images/perk_icons/unforeseen.png"
+    "image": "/images/perk_icons/unforeseen.webp"
   },
   "K35P03": {
     "categories": null,
@@ -1249,7 +1249,7 @@
     "character": 268435490,
     "tunables": [["18", "24", "30"], ["1"], ["1"], ["60"]],
     "teachable": 40,
-    "image": "/images/perk_icons/undone.png"
+    "image": "/images/perk_icons/undone.webp"
   },
   "K36P01": {
     "categories": null,
@@ -1259,7 +1259,7 @@
     "character": 268435491,
     "tunables": [["12"], ["20", "25", "30"]],
     "teachable": 30,
-    "image": "/images/perk_icons/weave-attunement.png"
+    "image": "/images/perk_icons/weave-attunement.webp"
   },
   "K36P02": {
     "categories": null,
@@ -1269,7 +1269,7 @@
     "character": 268435491,
     "tunables": [["36"], ["6", "8", "10"], ["5"]],
     "teachable": 35,
-    "image": "/images/perk_icons/languid-touch.png"
+    "image": "/images/perk_icons/languid-touch.webp"
   },
   "K36P03": {
     "categories": null,
@@ -1279,7 +1279,7 @@
     "character": 268435491,
     "tunables": [["25"], ["15", "20", "25"]],
     "teachable": 40,
-    "image": "/images/perk_icons/dark-arrogance.png"
+    "image": "/images/perk_icons/dark-arrogance.webp"
   },
   "K37P01": {
     "categories": null,
@@ -1289,7 +1289,7 @@
     "character": 268435492,
     "tunables": [["27", "30", "33"], ["12"]],
     "teachable": 30,
-    "image": "/images/perk_icons/hex-wretched-fate.png"
+    "image": "/images/perk_icons/hex-wretched-fate.webp"
   },
   "K37P02": {
     "categories": null,
@@ -1299,7 +1299,7 @@
     "character": 268435492,
     "tunables": [["3", "4", "5"], ["8"], ["10"]],
     "teachable": 35,
-    "image": "/images/perk_icons/human-greed.png"
+    "image": "/images/perk_icons/human-greed.webp"
   },
   "K37P03": {
     "categories": null,
@@ -1309,7 +1309,7 @@
     "character": 268435492,
     "tunables": [["8", "12", "16"]],
     "teachable": 40,
-    "image": "/images/perk_icons/dominance.png"
+    "image": "/images/perk_icons/dominance.webp"
   },
   "K38P01": {
     "categories": null,
@@ -1319,7 +1319,7 @@
     "character": 268435493,
     "tunables": [["75"], ["8", "12", "16"], ["5"]],
     "teachable": 30,
-    "image": "/images/perk_icons/all-shaking-thunder.png"
+    "image": "/images/perk_icons/all-shaking-thunder.webp"
   },
   "K38P02": {
     "categories": null,
@@ -1329,7 +1329,7 @@
     "character": 268435493,
     "tunables": [["6", "8", "10"]],
     "teachable": 35,
-    "image": "/images/perk_icons/scourge-hook-jagged-compass.png"
+    "image": "/images/perk_icons/scourge-hook-jagged-compass.webp"
   },
   "K38P03": {
     "categories": null,
@@ -1339,7 +1339,7 @@
     "character": 268435493,
     "tunables": [["75"], ["20", "25", "30"]],
     "teachable": 40,
-    "image": "/images/perk_icons/no-quarter.png"
+    "image": "/images/perk_icons/no-quarter.webp"
   },
   "K39P01": {
     "categories": null,
@@ -1349,7 +1349,7 @@
     "character": 268435494,
     "tunables": [["8"], ["5"], ["10", "12.5", "15"]],
     "teachable": 30,
-    "image": "/images/perk_icons/hex-nothing-but-misery.png"
+    "image": "/images/perk_icons/hex-nothing-but-misery.webp"
   },
   "K39P02": {
     "categories": null,
@@ -1359,7 +1359,7 @@
     "character": 268435494,
     "tunables": [["6", "7", "8"], ["4"]],
     "teachable": 35,
-    "image": "/images/perk_icons/forever-entwined.png"
+    "image": "/images/perk_icons/forever-entwined.webp"
   },
   "K39P03": {
     "categories": null,
@@ -1369,7 +1369,7 @@
     "character": 268435494,
     "tunables": [["12", "14", "16"]],
     "teachable": 40,
-    "image": "/images/perk_icons/none-are-free.png"
+    "image": "/images/perk_icons/none-are-free.webp"
   },
   "K40P01": {
     "categories": null,
@@ -1379,7 +1379,7 @@
     "character": 268435495,
     "tunables": [["25"], ["40", "50", "60"]],
     "teachable": 30,
-    "image": "/images/perk_icons/help-wanted.png"
+    "image": "/images/perk_icons/help-wanted.webp"
   },
   "K40P02": {
     "categories": null,
@@ -1389,7 +1389,7 @@
     "character": 268435495,
     "tunables": [["2"], ["80", "70", "60"]],
     "teachable": 35,
-    "image": "/images/perk_icons/phantom-fear.png"
+    "image": "/images/perk_icons/phantom-fear.webp"
   },
   "K40P03": {
     "categories": null,
@@ -1399,7 +1399,7 @@
     "character": 268435495,
     "tunables": [["80", "90", "100"]],
     "teachable": 40,
-    "image": "/images/perk_icons/haywire.png"
+    "image": "/images/perk_icons/haywire.webp"
   },
   "Kindred": {
     "categories": ["perception"],
@@ -1409,7 +1409,7 @@
     "character": null,
     "tunables": [["8", "12", "16"]],
     "teachable": 0,
-    "image": "/images/perk_icons/kindred.png"
+    "image": "/images/perk_icons/kindred.webp"
   },
   "Leader": {
     "categories": ["strategy", "support"],
@@ -1419,7 +1419,7 @@
     "character": 0,
     "tunables": [["15", "20", "25"], ["8"], ["15"]],
     "teachable": 40,
-    "image": "/images/perk_icons/leader.png"
+    "image": "/images/perk_icons/leader.webp"
   },
   "LeftBehind": {
     "categories": ["strategy", "adaptation"],
@@ -1429,7 +1429,7 @@
     "character": 7,
     "tunables": [["24", "28", "32"]],
     "teachable": 30,
-    "image": "/images/perk_icons/left-behind.png"
+    "image": "/images/perk_icons/left-behind.webp"
   },
   "Lightborn": {
     "categories": ["enhancement"],
@@ -1439,7 +1439,7 @@
     "character": 268435458,
     "tunables": [["6", "8", "10"]],
     "teachable": 35,
-    "image": "/images/perk_icons/lightborn.png"
+    "image": "/images/perk_icons/lightborn.webp"
   },
   "Lightweight": {
     "categories": ["navigation"],
@@ -1449,7 +1449,7 @@
     "character": null,
     "tunables": [["3", "4", "5"]],
     "teachable": 0,
-    "image": "/images/perk_icons/lightweight.png"
+    "image": "/images/perk_icons/lightweight.webp"
   },
   "Lithe": {
     "categories": ["navigation"],
@@ -1459,7 +1459,7 @@
     "character": 8,
     "tunables": [["50"], ["3"], ["60", "50", "40"]],
     "teachable": 35,
-    "image": "/images/perk_icons/lithe.png"
+    "image": "/images/perk_icons/lithe.webp"
   },
   "LuckyBreak": {
     "categories": ["concealment"],
@@ -1469,7 +1469,7 @@
     "character": 19,
     "tunables": [["40", "50", "60"]],
     "teachable": 30,
-    "image": "/images/perk_icons/lucky-break.png"
+    "image": "/images/perk_icons/lucky-break.webp"
   },
   "MadGrit": {
     "categories": ["cruelty"],
@@ -1479,7 +1479,7 @@
     "character": 268435469,
     "tunables": [["2", "3", "4"]],
     "teachable": 35,
-    "image": "/images/perk_icons/mad-grit.png"
+    "image": "/images/perk_icons/mad-grit.webp"
   },
   "MakeYourChoice": {
     "categories": ["hinderance"],
@@ -1489,7 +1489,7 @@
     "character": 268435466,
     "tunables": [["32"], ["40", "50", "60"], ["40", "50", "60"]],
     "teachable": 40,
-    "image": "/images/perk_icons/make-your-choice.png"
+    "image": "/images/perk_icons/make-your-choice.webp"
   },
   "Mindbreaker": {
     "categories": ["hinderance"],
@@ -1499,7 +1499,7 @@
     "character": 268435472,
     "tunables": [["50"], ["3", "4", "5"]],
     "teachable": 35,
-    "image": "/images/perk_icons/mindbreaker.png"
+    "image": "/images/perk_icons/mindbreaker.webp"
   },
   "MonitorAndAbuse": {
     "categories": ["tracking", "trickery"],
@@ -1512,7 +1512,7 @@
       ["6", "7", "8"]
     ],
     "teachable": 35,
-    "image": "/images/perk_icons/monitor-abuse.png"
+    "image": "/images/perk_icons/monitor-abuse.webp"
   },
   "Monstrous_Shrine": {
     "categories": ["hinderance"],
@@ -1522,7 +1522,7 @@
     "character": null,
     "tunables": [["4"], ["10", "15", "20"]],
     "teachable": 0,
-    "image": "/images/perk_icons/scourge-hook-monstrous-shrine.png"
+    "image": "/images/perk_icons/scourge-hook-monstrous-shrine.webp"
   },
   "Nemesis": {
     "categories": ["trickery", "tracking"],
@@ -1532,7 +1532,7 @@
     "character": 268435473,
     "tunables": [["40", "50", "60"], ["8"]],
     "teachable": 40,
-    "image": "/images/perk_icons/nemesis.png"
+    "image": "/images/perk_icons/nemesis.webp"
   },
   "No_One_Escapes_Death": {
     "categories": ["cruelty", "trickery"],
@@ -1542,7 +1542,7 @@
     "character": null,
     "tunables": [["2", "3", "4"]],
     "teachable": 0,
-    "image": "/images/perk_icons/hex-no-one-escapes-death.png"
+    "image": "/images/perk_icons/hex-no-one-escapes-death.webp"
   },
   "No_One_Left_Behind": {
     "categories": ["safeguard"],
@@ -1552,7 +1552,7 @@
     "character": null,
     "tunables": [["50", "75", "100"], ["10"], ["15"]],
     "teachable": 0,
-    "image": "/images/perk_icons/no-one-left-behind.png"
+    "image": "/images/perk_icons/no-one-left-behind.webp"
   },
   "NoMither": {
     "categories": ["adaptation", "concealment"],
@@ -1565,7 +1565,7 @@
       ["15", "20", "25"]
     ],
     "teachable": 40,
-    "image": "/images/perk_icons/no-mither.png"
+    "image": "/images/perk_icons/no-mither.webp"
   },
   "NurseCalling": {
     "categories": ["tracking"],
@@ -1575,7 +1575,7 @@
     "character": 268435459,
     "tunables": [["20", "24", "28"]],
     "teachable": 40,
-    "image": "/images/perk_icons/a-nurses-calling.png"
+    "image": "/images/perk_icons/a-nurses-calling.webp"
   },
   "ObjectOfObsession": {
     "categories": ["perception"],
@@ -1585,7 +1585,7 @@
     "character": 5,
     "tunables": [["2", "4", "6"]],
     "teachable": 35,
-    "image": "/images/perk_icons/object-of-obsession.png"
+    "image": "/images/perk_icons/object-of-obsession.webp"
   },
   "OffTheRecord": {
     "categories": ["concealment"],
@@ -1595,7 +1595,7 @@
     "character": 20,
     "tunables": [["60", "70", "80"], ["100"]],
     "teachable": 30,
-    "image": "/images/perk_icons/off-the-record.png"
+    "image": "/images/perk_icons/off-the-record.webp"
   },
   "Open_Handed": {
     "categories": ["support", "navigation"],
@@ -1605,7 +1605,7 @@
     "character": 6,
     "tunables": [["8", "12", "16"]],
     "teachable": 30,
-    "image": "/images/perk_icons/open-handed.png"
+    "image": "/images/perk_icons/open-handed.webp"
   },
   "OverwhelmingPresence": {
     "categories": ["hinderance"],
@@ -1615,7 +1615,7 @@
     "character": 268435462,
     "tunables": [["32"], ["15"], ["2", "3", "4"], ["25"]],
     "teachable": 30,
-    "image": "/images/perk_icons/overwhelming-presence.png"
+    "image": "/images/perk_icons/overwhelming-presence.webp"
   },
   "Pharmacy": {
     "categories": ["adaptation"],
@@ -1625,7 +1625,7 @@
     "character": 11,
     "tunables": [["70", "85", "100"], ["16"]],
     "teachable": 35,
-    "image": "/images/perk_icons/pharmacy.png"
+    "image": "/images/perk_icons/pharmacy.webp"
   },
   "Play_With_Your_Food": {
     "categories": ["chasing"],
@@ -1635,7 +1635,7 @@
     "character": 268435461,
     "tunables": [["3"], ["3", "4", "5"]],
     "teachable": 35,
-    "image": "/images/perk_icons/play-with-your-food.png"
+    "image": "/images/perk_icons/play-with-your-food.webp"
   },
   "Plunderers_Instinct": {
     "categories": ["perception"],
@@ -1645,7 +1645,7 @@
     "character": null,
     "tunables": [["32", "48", "64"]],
     "teachable": 0,
-    "image": "/images/perk_icons/plunderers-instinct.png"
+    "image": "/images/perk_icons/plunderers-instinct.webp"
   },
   "Poised": {
     "categories": ["concealment"],
@@ -1655,7 +1655,7 @@
     "character": 15,
     "tunables": [["6"], ["10", "12", "14"]],
     "teachable": 35,
-    "image": "/images/perk_icons/poised.png"
+    "image": "/images/perk_icons/poised.webp"
   },
   "pop_goes_the_weasel": {
     "categories": ["obstruction"],
@@ -1665,7 +1665,7 @@
     "character": 268435467,
     "tunables": [["20"], ["35", "40", "45"]],
     "teachable": 40,
-    "image": "/images/perk_icons/pop-goes-the-weasel.png"
+    "image": "/images/perk_icons/pop-goes-the-weasel.webp"
   },
   "Predator": {
     "categories": ["tracking"],
@@ -1675,7 +1675,7 @@
     "character": 268435457,
     "tunables": [["4"], ["60", "50", "40"]],
     "teachable": 30,
-    "image": "/images/perk_icons/predator.png"
+    "image": "/images/perk_icons/predator.webp"
   },
   "Premonition": {
     "categories": ["perception"],
@@ -1685,7 +1685,7 @@
     "character": null,
     "tunables": [["36"], ["60", "45", "30"]],
     "teachable": 0,
-    "image": "/images/perk_icons/premonition.png"
+    "image": "/images/perk_icons/premonition.webp"
   },
   "Prove_Thyself": {
     "categories": ["strategy", "support"],
@@ -1695,7 +1695,7 @@
     "character": 0,
     "tunables": [["4"], ["6", "8", "10"]],
     "teachable": 35,
-    "image": "/images/perk_icons/prove-thyself.png"
+    "image": "/images/perk_icons/prove-thyself.webp"
   },
   "QuickQuiet": {
     "categories": ["navigation", "concealment"],
@@ -1705,7 +1705,7 @@
     "character": 1,
     "tunables": [["100"], ["25", "20", "15"]],
     "teachable": 30,
-    "image": "/images/perk_icons/quick-quiet.png"
+    "image": "/images/perk_icons/quick-quiet.webp"
   },
   "Rancor": {
     "categories": ["tracking"],
@@ -1715,7 +1715,7 @@
     "character": 268435468,
     "tunables": [["5", "4", "3"], ["3"]],
     "teachable": 40,
-    "image": "/images/perk_icons/rancor.png"
+    "image": "/images/perk_icons/rancor.webp"
   },
   "RedHerring": {
     "categories": ["concealment"],
@@ -1725,7 +1725,7 @@
     "character": 20,
     "tunables": [["1"], ["25", "20", "15"]],
     "teachable": 35,
-    "image": "/images/perk_icons/red-herring.png"
+    "image": "/images/perk_icons/red-herring.webp"
   },
   "RememberMe": {
     "categories": ["obstruction"],
@@ -1735,7 +1735,7 @@
     "character": 268435465,
     "tunables": [["3", "4", "5"], ["30"]],
     "teachable": 35,
-    "image": "/images/perk_icons/remember-me.png"
+    "image": "/images/perk_icons/remember-me.webp"
   },
   "RepressedAlliance": {
     "categories": ["strategy"],
@@ -1745,7 +1745,7 @@
     "character": 21,
     "tunables": [["55", "50", "45"], ["30"]],
     "teachable": 40,
-    "image": "/images/perk_icons/repressed-alliance.png"
+    "image": "/images/perk_icons/repressed-alliance.webp"
   },
   "Resilience": {
     "categories": ["navigation", "safeguard", "strategy"],
@@ -1755,7 +1755,7 @@
     "character": null,
     "tunables": [["3", "6", "9"]],
     "teachable": 0,
-    "image": "/images/perk_icons/resilience.png"
+    "image": "/images/perk_icons/resilience.webp"
   },
   "S24P01": {
     "categories": ["support"],
@@ -1765,7 +1765,7 @@
     "character": 23,
     "tunables": [["4"], ["40", "60", "80"]],
     "teachable": 30,
-    "image": "/images/perk_icons/appraisal.png"
+    "image": "/images/perk_icons/appraisal.webp"
   },
   "S24P02": {
     "categories": ["concealment"],
@@ -1775,7 +1775,7 @@
     "character": 23,
     "tunables": [["5"], ["25", "20", "15"]],
     "teachable": 35,
-    "image": "/images/perk_icons/deception.png"
+    "image": "/images/perk_icons/deception.webp"
   },
   "S24P03": {
     "categories": ["adaptation"],
@@ -1785,7 +1785,7 @@
     "character": 23,
     "tunables": [["25", "20", "15"]],
     "teachable": 40,
-    "image": "/images/perk_icons/power-struggle.png"
+    "image": "/images/perk_icons/power-struggle.webp"
   },
   "S25P01": {
     "categories": ["strategy"],
@@ -1795,7 +1795,7 @@
     "character": 24,
     "tunables": [["1", "2", "3"], ["1"]],
     "teachable": 30,
-    "image": "/images/perk_icons/fast-track.png"
+    "image": "/images/perk_icons/fast-track.webp"
   },
   "S25P02": {
     "categories": ["navigation"],
@@ -1805,7 +1805,7 @@
     "character": 24,
     "tunables": [["50"], ["4"], ["30", "25", "20"]],
     "teachable": 35,
-    "image": "/images/perk_icons/smash-hit.png"
+    "image": "/images/perk_icons/smash-hit.webp"
   },
   "S25P03": {
     "categories": ["concealment"],
@@ -1815,7 +1815,7 @@
     "character": 24,
     "tunables": [["16"], ["6", "8", "10"]],
     "teachable": 40,
-    "image": "/images/perk_icons/self-preservation.png"
+    "image": "/images/perk_icons/self-preservation.webp"
   },
   "S26P01": {
     "categories": ["perception"],
@@ -1825,7 +1825,7 @@
     "character": 25,
     "tunables": [["10", "12", "14"], ["25"]],
     "teachable": 30,
-    "image": "/images/perk_icons/counterforce.png"
+    "image": "/images/perk_icons/counterforce.webp"
   },
   "S26P02": {
     "categories": ["adaptation"],
@@ -1835,7 +1835,7 @@
     "character": 25,
     "tunables": [["50", "60", "70"]],
     "teachable": 35,
-    "image": "/images/perk_icons/resurgence.png"
+    "image": "/images/perk_icons/resurgence.webp"
   },
   "S26P03": {
     "categories": ["adaptation"],
@@ -1845,7 +1845,7 @@
     "character": 25,
     "tunables": [["40"], ["3"], ["100", "110", "120"]],
     "teachable": 40,
-    "image": "/images/perk_icons/blast-mine.png"
+    "image": "/images/perk_icons/blast-mine.webp"
   },
   "S27P01": {
     "categories": ["safeguard"],
@@ -1855,7 +1855,7 @@
     "character": 26,
     "tunables": [["3", "2", "1"]],
     "teachable": 30,
-    "image": "/images/perk_icons/bite-the-bullet.png"
+    "image": "/images/perk_icons/bite-the-bullet.webp"
   },
   "S27P02": {
     "categories": ["adaptation"],
@@ -1865,7 +1865,7 @@
     "character": 26,
     "tunables": [["50", "45", "40"]],
     "teachable": 35,
-    "image": "/images/perk_icons/flashbang.png"
+    "image": "/images/perk_icons/flashbang.webp"
   },
   "S27P03": {
     "categories": ["perception"],
@@ -1875,7 +1875,7 @@
     "character": 26,
     "tunables": [["5", "4", "3"]],
     "teachable": 40,
-    "image": "/images/perk_icons/rookie-spirit.png"
+    "image": "/images/perk_icons/rookie-spirit.webp"
   },
   "S28P01": {
     "categories": null,
@@ -1885,7 +1885,7 @@
     "character": 27,
     "tunables": [["8", "9", "10"], ["64"]],
     "teachable": 30,
-    "image": "/images/perk_icons/clairvoyance.png"
+    "image": "/images/perk_icons/clairvoyance.webp"
   },
   "S28P02": {
     "categories": null,
@@ -1895,7 +1895,7 @@
     "character": 27,
     "tunables": [["24"], ["50", "75", "100"]],
     "teachable": 35,
-    "image": "/images/perk_icons/boon-circle-of-healing.png"
+    "image": "/images/perk_icons/boon-circle-of-healing.webp"
   },
   "S28P03": {
     "categories": null,
@@ -1905,7 +1905,7 @@
     "character": 27,
     "tunables": [["24"], ["2", "3", "4"]],
     "teachable": 40,
-    "image": "/images/perk_icons/boon-shadow-step.png"
+    "image": "/images/perk_icons/boon-shadow-step.webp"
   },
   "S29P01": {
     "categories": null,
@@ -1915,7 +1915,7 @@
     "character": 28,
     "tunables": [["2"], ["60", "50", "40"]],
     "teachable": 30,
-    "image": "/images/perk_icons/overcome.png"
+    "image": "/images/perk_icons/overcome.webp"
   },
   "S29P02": {
     "categories": null,
@@ -1925,7 +1925,7 @@
     "character": 28,
     "tunables": [["1", "2", "3"], ["5"], ["6"]],
     "teachable": 35,
-    "image": "/images/perk_icons/corrective-action.png"
+    "image": "/images/perk_icons/corrective-action.webp"
   },
   "S29P03": {
     "categories": null,
@@ -1935,7 +1935,7 @@
     "character": 28,
     "tunables": [["24"], ["90", "95", "100"]],
     "teachable": 40,
-    "image": "/images/perk_icons/boon-exponential.png"
+    "image": "/images/perk_icons/boon-exponential.webp"
   },
   "S30P01": {
     "categories": null,
@@ -1945,7 +1945,7 @@
     "character": 29,
     "tunables": [["5", "6", "7"]],
     "teachable": 30,
-    "image": "/images/perk_icons/parental-guidance.png"
+    "image": "/images/perk_icons/parental-guidance.webp"
   },
   "S30P02": {
     "categories": null,
@@ -1955,7 +1955,7 @@
     "character": 29,
     "tunables": [["25", "30", "35"]],
     "teachable": 35,
-    "image": "/images/perk_icons/empathic-connection.png"
+    "image": "/images/perk_icons/empathic-connection.webp"
   },
   "S30P03": {
     "categories": null,
@@ -1965,7 +1965,7 @@
     "character": 29,
     "tunables": [["24"], ["3"], ["2", "3", "4"]],
     "teachable": 40,
-    "image": "/images/perk_icons/boon-dark-theory.png"
+    "image": "/images/perk_icons/boon-dark-theory.webp"
   },
   "S31P01": {
     "categories": null,
@@ -1975,7 +1975,7 @@
     "character": 30,
     "tunables": [["6", "8", "10"]],
     "teachable": 30,
-    "image": "/images/perk_icons/inner-focus.png"
+    "image": "/images/perk_icons/inner-focus.webp"
   },
   "S31P02": {
     "categories": null,
@@ -1985,7 +1985,7 @@
     "character": 30,
     "tunables": [["20", "25", "30"]],
     "teachable": 35,
-    "image": "/images/perk_icons/residual-manifest.png"
+    "image": "/images/perk_icons/residual-manifest.webp"
   },
   "S31P03": {
     "categories": null,
@@ -1995,7 +1995,7 @@
     "character": 30,
     "tunables": [["8", "9", "10"]],
     "teachable": 40,
-    "image": "/images/perk_icons/overzealous.png"
+    "image": "/images/perk_icons/overzealous.webp"
   },
   "S32P01": {
     "categories": null,
@@ -2005,7 +2005,7 @@
     "character": 31,
     "tunables": [["100", "110", "120"], ["40"], ["3"], ["14"]],
     "teachable": 30,
-    "image": "/images/perk_icons/wiretap.png"
+    "image": "/images/perk_icons/wiretap.webp"
   },
   "S32P02": {
     "categories": null,
@@ -2015,7 +2015,7 @@
     "character": 31,
     "tunables": [["40", "45", "50"], ["32"]],
     "teachable": 35,
-    "image": "/images/perk_icons/reactive-healing.png"
+    "image": "/images/perk_icons/reactive-healing.webp"
   },
   "S32P03": {
     "categories": null,
@@ -2025,7 +2025,7 @@
     "character": 31,
     "tunables": [["70", "80", "90"]],
     "teachable": 40,
-    "image": "/images/perk_icons/low-profile.png"
+    "image": "/images/perk_icons/low-profile.webp"
   },
   "S33P01": {
     "categories": null,
@@ -2035,7 +2035,7 @@
     "character": 32,
     "tunables": [["12", "14", "16"]],
     "teachable": 30,
-    "image": "/images/perk_icons/better-than-new.png"
+    "image": "/images/perk_icons/better-than-new.webp"
   },
   "S33P02": {
     "categories": null,
@@ -2045,7 +2045,7 @@
     "character": 32,
     "tunables": [["20", "25", "30"], ["40"], ["6"]],
     "teachable": 35,
-    "image": "/images/perk_icons/reassurance.png"
+    "image": "/images/perk_icons/reassurance.webp"
   },
   "S33P03": {
     "categories": null,
@@ -2055,7 +2055,7 @@
     "character": 32,
     "tunables": [["10", "20", "30"], ["1"], ["6"], ["4"], ["4"]],
     "teachable": 40,
-    "image": "/images/perk_icons/hyperfocus.png"
+    "image": "/images/perk_icons/hyperfocus.webp"
   },
   "S34P01": {
     "categories": null,
@@ -2065,7 +2065,7 @@
     "character": 33,
     "tunables": [["12", "10", "8"], ["10", "15", "20"], ["1"], ["1"]],
     "teachable": 30,
-    "image": "/images/perk_icons/potential-energy.png"
+    "image": "/images/perk_icons/potential-energy.webp"
   },
   "S34P02": {
     "categories": null,
@@ -2075,7 +2075,7 @@
     "character": 33,
     "tunables": [["4", "5", "6"]],
     "teachable": 35,
-    "image": "/images/perk_icons/fogwise.png"
+    "image": "/images/perk_icons/fogwise.webp"
   },
   "S34P03": {
     "categories": null,
@@ -2085,7 +2085,7 @@
     "character": 33,
     "tunables": [["3", "4", "5"], ["60"]],
     "teachable": 40,
-    "image": "/images/perk_icons/quick-gambit.png"
+    "image": "/images/perk_icons/quick-gambit.webp"
   },
   "S35P01": {
     "categories": ["concealment"],
@@ -2095,7 +2095,7 @@
     "character": 34,
     "tunables": [["4", "5", "6"], ["45"]],
     "teachable": 30,
-    "image": "/images/perk_icons/cut-loose.png"
+    "image": "/images/perk_icons/cut-loose.webp"
   },
   "S35P02": {
     "categories": ["strategy"],
@@ -2105,7 +2105,7 @@
     "character": 34,
     "tunables": [["5"], ["45", "60", "75"]],
     "teachable": 35,
-    "image": "/images/perk_icons/friendly-competition.png"
+    "image": "/images/perk_icons/friendly-competition.webp"
   },
   "S35P03": {
     "categories": ["support"],
@@ -2115,7 +2115,7 @@
     "character": 34,
     "tunables": [["5"], ["8", "12", "16"]],
     "teachable": 40,
-    "image": "/images/perk_icons/teamwork-power-of-two.png"
+    "image": "/images/perk_icons/teamwork-power-of-two.webp"
   },
   "S36P01": {
     "categories": ["navigation"],
@@ -2125,7 +2125,7 @@
     "character": 35,
     "tunables": [["10"], ["50"], ["5"], ["30", "25", "20"]],
     "teachable": 30,
-    "image": "/images/perk_icons/background-player.png"
+    "image": "/images/perk_icons/background-player.webp"
   },
   "S36P02": {
     "categories": ["strategy"],
@@ -2135,7 +2135,7 @@
     "character": 35,
     "tunables": [["40", "50", "60"]],
     "teachable": 35,
-    "image": "/images/perk_icons/blood-rush.png"
+    "image": "/images/perk_icons/blood-rush.webp"
   },
   "S36P03": {
     "categories": ["support"],
@@ -2147,7 +2147,7 @@
       "1": ["8", "12", "16"]
     },
     "teachable": 40,
-    "image": "/images/perk_icons/teamwork-collective-stealth.png"
+    "image": "/images/perk_icons/teamwork-collective-stealth.webp"
   },
   "S37P01": {
     "categories": ["strategy"],
@@ -2160,7 +2160,7 @@
       ["6", "8", "10"]
     ],
     "teachable": 30,
-    "image": "/images/perk_icons/troubleshooter.png"
+    "image": "/images/perk_icons/troubleshooter.webp"
   },
   "S37P02": {
     "categories": ["safeguard"],
@@ -2170,7 +2170,7 @@
     "character": 36,
     "tunables": [["3"], ["6", "8", "10"]],
     "teachable": 35,
-    "image": "/images/perk_icons/made-for-this.png"
+    "image": "/images/perk_icons/made-for-this.webp"
   },
   "S37P03": {
     "categories": ["adaptation"],
@@ -2180,7 +2180,7 @@
     "character": 36,
     "tunables": [["1"], ["5"], ["50"], ["40", "35", "30"]],
     "teachable": 40,
-    "image": "/images/perk_icons/scavenger.png"
+    "image": "/images/perk_icons/scavenger.webp"
   },
   "S38P01": {
     "categories": null,
@@ -2190,7 +2190,7 @@
     "character": 37,
     "tunables": [["25"], ["2"], ["12"], ["25"], ["2"], ["60", "50", "40"]],
     "teachable": 30,
-    "image": "/images/perk_icons/dramaturgy.png"
+    "image": "/images/perk_icons/dramaturgy.webp"
   },
   "S38P02": {
     "categories": null,
@@ -2200,7 +2200,7 @@
     "character": 37,
     "tunables": [["4", "5", "6"], ["40"]],
     "teachable": 35,
-    "image": "/images/perk_icons/scene-partner.png"
+    "image": "/images/perk_icons/scene-partner.webp"
   },
   "S38P03": {
     "categories": null,
@@ -2210,7 +2210,7 @@
     "character": 37,
     "tunables": [["50"], ["2", "3", "4"]],
     "teachable": 40,
-    "image": "/images/perk_icons/plot-twist.png"
+    "image": "/images/perk_icons/plot-twist.webp"
   },
   "S39P01": {
     "categories": null,
@@ -2220,7 +2220,7 @@
     "character": 38,
     "tunables": [["30"], ["40", "35", "30"]],
     "teachable": 30,
-    "image": "/images/perk_icons/lucky-star.png"
+    "image": "/images/perk_icons/lucky-star.webp"
   },
   "S39P02": {
     "categories": null,
@@ -2230,7 +2230,7 @@
     "character": 38,
     "tunables": [["20"], ["40", "50", "60"], ["50"], ["4"]],
     "teachable": 35,
-    "image": "/images/perk_icons/chemical-trap.png"
+    "image": "/images/perk_icons/chemical-trap.webp"
   },
   "S39P03": {
     "categories": null,
@@ -2240,7 +2240,7 @@
     "character": 38,
     "tunables": [["14", "12", "10"]],
     "teachable": 40,
-    "image": "/images/perk_icons/light-footed.png"
+    "image": "/images/perk_icons/light-footed.webp"
   },
   "S40P01": {
     "categories": ["safeguard"],
@@ -2250,7 +2250,7 @@
     "character": 39,
     "tunables": [["50"], ["20"], ["6"], ["60", "50", "40"]],
     "teachable": 30,
-    "image": "/images/perk_icons/champion-of-light.png"
+    "image": "/images/perk_icons/champion-of-light.webp"
   },
   "S40P02": {
     "categories": ["strategy"],
@@ -2260,7 +2260,7 @@
     "character": 39,
     "tunables": [["24"], ["6", "8", "10"]],
     "teachable": 35,
-    "image": "/images/perk_icons/boon-illumination.png"
+    "image": "/images/perk_icons/boon-illumination.webp"
   },
   "S40P03": {
     "categories": ["concealment"],
@@ -2270,7 +2270,7 @@
     "character": 39,
     "tunables": [["6", "8", "10"], ["50"]],
     "teachable": 40,
-    "image": "/images/perk_icons/deadline.png"
+    "image": "/images/perk_icons/deadline.webp"
   },
   "S41P01": {
     "categories": null,
@@ -2280,7 +2280,7 @@
     "character": 40,
     "tunables": [["60"], ["8", "9", "10"]],
     "teachable": 30,
-    "image": "/images/perk_icons/invocation-weaving-spiders.png"
+    "image": "/images/perk_icons/invocation-weaving-spiders.webp"
   },
   "S41P02": {
     "categories": ["adaptation"],
@@ -2290,7 +2290,7 @@
     "character": 40,
     "tunables": [["70"], ["6", "8", "10"]],
     "teachable": 35,
-    "image": "/images/perk_icons/strength-in-shadows.png"
+    "image": "/images/perk_icons/strength-in-shadows.webp"
   },
   "S41P03": {
     "categories": null,
@@ -2300,7 +2300,7 @@
     "character": 40,
     "tunables": [["16", "18", "20"]],
     "teachable": 40,
-    "image": "/images/perk_icons/wicked.png"
+    "image": "/images/perk_icons/wicked.webp"
   },
   "S42P01": {
     "categories": null,
@@ -2310,7 +2310,7 @@
     "character": 41,
     "tunables": [["20"], ["40", "50", "60"]],
     "teachable": 30,
-    "image": "/images/perk_icons/mirrored-illusion.png"
+    "image": "/images/perk_icons/mirrored-illusion.webp"
   },
   "S42P02": {
     "categories": null,
@@ -2320,7 +2320,7 @@
     "character": 41,
     "tunables": [["15"], ["16"], ["90"], ["110", "100", "90"]],
     "teachable": 35,
-    "image": "/images/perk_icons/bardic-inspiration.png"
+    "image": "/images/perk_icons/bardic-inspiration.webp"
   },
   "S42P03": {
     "categories": null,
@@ -2330,7 +2330,7 @@
     "character": 41,
     "tunables": [["4", "3", "2"], ["24"]],
     "teachable": 40,
-    "image": "/images/perk_icons/still-sight.png"
+    "image": "/images/perk_icons/still-sight.webp"
   },
   "S43P01": {
     "categories": null,
@@ -2340,7 +2340,7 @@
     "character": 42,
     "tunables": [["20"], ["40", "35", "30"]],
     "teachable": 30,
-    "image": "/images/perk_icons/finesse.png"
+    "image": "/images/perk_icons/finesse.webp"
   },
   "S43P02": {
     "categories": null,
@@ -2350,7 +2350,7 @@
     "character": 42,
     "tunables": [["3", "4", "5"]],
     "teachable": 35,
-    "image": "/images/perk_icons/hardened.png"
+    "image": "/images/perk_icons/hardened.webp"
   },
   "S43P03": {
     "categories": null,
@@ -2360,7 +2360,7 @@
     "character": 42,
     "tunables": [["6"], ["2", "3", "4"]],
     "teachable": 40,
-    "image": "/images/perk_icons/specialist.png"
+    "image": "/images/perk_icons/specialist.webp"
   },
   "S44P01": {
     "categories": null,
@@ -2370,7 +2370,7 @@
     "character": 43,
     "tunables": [["1", "2", "3"], ["2"]],
     "teachable": 30,
-    "image": "/images/perk_icons/eyes-of-belmont.png"
+    "image": "/images/perk_icons/eyes-of-belmont.webp"
   },
   "S44P02": {
     "categories": null,
@@ -2380,7 +2380,7 @@
     "character": 43,
     "tunables": [["75"], ["30", "25", "20"]],
     "teachable": 35,
-    "image": "/images/perk_icons/exultation.png"
+    "image": "/images/perk_icons/exultation.webp"
   },
   "S44P03": {
     "categories": null,
@@ -2390,7 +2390,7 @@
     "character": 43,
     "tunables": [["2"], ["80", "70", "60"]],
     "teachable": 40,
-    "image": "/images/perk_icons/moment-of-glory.png"
+    "image": "/images/perk_icons/moment-of-glory.webp"
   },
   "S45P01": {
     "categories": null,
@@ -2400,7 +2400,7 @@
     "character": 44,
     "tunables": [["60"], ["1", "1.5", "2"]],
     "teachable": 30,
-    "image": "/images/perk_icons/invocation-treacherous-crows.png"
+    "image": "/images/perk_icons/invocation-treacherous-crows.webp"
   },
   "S45P02": {
     "categories": null,
@@ -2410,7 +2410,7 @@
     "character": 44,
     "tunables": [["80", "70", "60"]],
     "teachable": 35,
-    "image": "/images/perk_icons/clean-break.png"
+    "image": "/images/perk_icons/clean-break.webp"
   },
   "S45P03": {
     "categories": null,
@@ -2420,7 +2420,7 @@
     "character": 44,
     "tunables": [["60", "50", "40"]],
     "teachable": 40,
-    "image": "/images/perk_icons/shoulder-the-burden.png"
+    "image": "/images/perk_icons/shoulder-the-burden.webp"
   },
   "S46P01": {
     "categories": null,
@@ -2430,7 +2430,7 @@
     "character": 45,
     "tunables": [["30", "40", "50"], ["3"]],
     "teachable": 30,
-    "image": "/images/perk_icons/do-no-harm.png"
+    "image": "/images/perk_icons/do-no-harm.webp"
   },
   "S46P02": {
     "categories": null,
@@ -2440,7 +2440,7 @@
     "character": 45,
     "tunables": [["12"], ["25"], ["4", "5", "6"]],
     "teachable": 35,
-    "image": "/images/perk_icons/duty-of-care.png"
+    "image": "/images/perk_icons/duty-of-care.webp"
   },
   "S46P03": {
     "categories": null,
@@ -2450,7 +2450,7 @@
     "character": 45,
     "tunables": [["30", "25", "20"], ["2"]],
     "teachable": 40,
-    "image": "/images/perk_icons/rapid-response.png"
+    "image": "/images/perk_icons/rapid-response.webp"
   },
   "S47P01": {
     "categories": null,
@@ -2460,7 +2460,7 @@
     "character": 46,
     "tunables": [["2"], ["4"], ["24", "28", "32"]],
     "teachable": 30,
-    "image": "/images/perk_icons/apocalyptic-ingenuity.png"
+    "image": "/images/perk_icons/apocalyptic-ingenuity.webp"
   },
   "S47P02": {
     "categories": null,
@@ -2470,7 +2470,7 @@
     "character": 46,
     "tunables": [["24"], ["10", "12.5", "15"], ["5"]],
     "teachable": 35,
-    "image": "/images/perk_icons/come-and-get-me.png"
+    "image": "/images/perk_icons/come-and-get-me.webp"
   },
   "S47P03": {
     "categories": null,
@@ -2480,7 +2480,7 @@
     "character": 46,
     "tunables": [["24"], ["100"], ["20", "25", "30"]],
     "teachable": 40,
-    "image": "/images/perk_icons/teamwork-toughen-up.png"
+    "image": "/images/perk_icons/teamwork-toughen-up.webp"
   },
   "S48P01": {
     "categories": null,
@@ -2490,7 +2490,7 @@
     "character": 47,
     "tunables": [["1"], ["25"], ["20", "25", "30"]],
     "teachable": 30,
-    "image": "/images/perk_icons/conviction.png"
+    "image": "/images/perk_icons/conviction.webp"
   },
   "S48P02": {
     "categories": null,
@@ -2500,7 +2500,7 @@
     "character": 47,
     "tunables": [["120", "105", "90"], ["3"], ["2.5"]],
     "teachable": 35,
-    "image": "/images/perk_icons/last-stand.png"
+    "image": "/images/perk_icons/last-stand.webp"
   },
   "S48P03": {
     "categories": null,
@@ -2510,7 +2510,7 @@
     "character": 47,
     "tunables": [["24"], ["6", "8", "10"]],
     "teachable": 40,
-    "image": "/images/perk_icons/teamwork-throw-down.png"
+    "image": "/images/perk_icons/teamwork-throw-down.webp"
   },
   "Saboteur": {
     "categories": ["strategy"],
@@ -2520,7 +2520,7 @@
     "character": 3,
     "tunables": [["70", "65", "60"]],
     "teachable": 40,
-    "image": "/images/perk_icons/saboteur.png"
+    "image": "/images/perk_icons/saboteur.webp"
   },
   "Save_The_Best_For_Last": {
     "categories": ["cruelty"],
@@ -2530,7 +2530,7 @@
     "character": 268435461,
     "tunables": [["4"], ["6", "7", "8"], ["2"]],
     "teachable": 30,
-    "image": "/images/perk_icons/save-the-best-for-last.png"
+    "image": "/images/perk_icons/save-the-best-for-last.webp"
   },
   "SecondWind": {
     "categories": ["adaptation"],
@@ -2540,7 +2540,7 @@
     "character": 18,
     "tunables": [["28", "24", "20"]],
     "teachable": 40,
-    "image": "/images/perk_icons/second-wind.png"
+    "image": "/images/perk_icons/second-wind.webp"
   },
   "Self_Care": {
     "categories": ["adaptation"],
@@ -2550,7 +2550,7 @@
     "character": 2,
     "tunables": [["25", "30", "35"]],
     "teachable": 40,
-    "image": "/images/perk_icons/self-care.png"
+    "image": "/images/perk_icons/self-care.webp"
   },
   "SelfSufficient": {
     "categories": ["adaptation"],
@@ -2560,7 +2560,7 @@
     "character": 7,
     "tunables": [["25", "30", "35"]],
     "teachable": 40,
-    "image": "/images/perk_icons/unbreakable.png"
+    "image": "/images/perk_icons/unbreakable.webp"
   },
   "Shadowborn": {
     "categories": ["tracking"],
@@ -2570,7 +2570,7 @@
     "character": 268435457,
     "tunables": [["6", "8", "10"], ["10"]],
     "teachable": 40,
-    "image": "/images/perk_icons/shadowborn.png"
+    "image": "/images/perk_icons/shadowborn.webp"
   },
   "Slippery_Meat": {
     "categories": ["adaptation"],
@@ -2580,7 +2580,7 @@
     "character": null,
     "tunables": [["3"], ["2", "3", "4"]],
     "teachable": 0,
-    "image": "/images/perk_icons/slippery-meat.png"
+    "image": "/images/perk_icons/slippery-meat.webp"
   },
   "Sloppy_Butcher": {
     "categories": ["cruelty"],
@@ -2590,7 +2590,7 @@
     "character": null,
     "tunables": [["70", "80", "90"], ["25"]],
     "teachable": 0,
-    "image": "/images/perk_icons/sloppy-butcher.png"
+    "image": "/images/perk_icons/sloppy-butcher.webp"
   },
   "Small_Game": {
     "categories": ["perception"],
@@ -2603,7 +2603,7 @@
       ["14", "12", "10"]
     ],
     "teachable": 0,
-    "image": "/images/perk_icons/small-game.png"
+    "image": "/images/perk_icons/small-game.webp"
   },
   "SoleSurvivor": {
     "categories": ["concealment"],
@@ -2613,7 +2613,7 @@
     "character": 5,
     "tunables": [["20", "22", "24"]],
     "teachable": 30,
-    "image": "/images/perk_icons/sole-survivor.png"
+    "image": "/images/perk_icons/sole-survivor.webp"
   },
   "Solidarity": {
     "categories": ["adaptation"],
@@ -2623,7 +2623,7 @@
     "character": 15,
     "tunables": [["50", "60", "70"]],
     "teachable": 30,
-    "image": "/images/perk_icons/solidarity.png"
+    "image": "/images/perk_icons/solidarity.webp"
   },
   "SoulGuard": {
     "categories": ["adaptation"],
@@ -2633,7 +2633,7 @@
     "character": 21,
     "tunables": [["4", "6", "8"], ["20"]],
     "teachable": 30,
-    "image": "/images/perk_icons/soul-guard.png"
+    "image": "/images/perk_icons/soul-guard.webp"
   },
   "Spies_From_The_Shadows": {
     "categories": ["tracking"],
@@ -2643,7 +2643,7 @@
     "character": null,
     "tunables": [["100"], ["20", "28", "36"], ["5"]],
     "teachable": 0,
-    "image": "/images/perk_icons/spies-from-the-shadows.png"
+    "image": "/images/perk_icons/spies-from-the-shadows.webp"
   },
   "Spine_Chill": {
     "categories": ["navigation", "strategy"],
@@ -2653,7 +2653,7 @@
     "character": null,
     "tunables": [["2", "4", "6"]],
     "teachable": 0,
-    "image": "/images/perk_icons/spine-chill.png"
+    "image": "/images/perk_icons/spine-chill.webp"
   },
   "SpiritFury": {
     "categories": ["chasing"],
@@ -2663,7 +2663,7 @@
     "character": 268435468,
     "tunables": [["4", "3", "2"]],
     "teachable": 30,
-    "image": "/images/perk_icons/spirit-fury.png"
+    "image": "/images/perk_icons/spirit-fury.webp"
   },
   "Sprint_Burst": {
     "categories": ["navigation"],
@@ -2673,7 +2673,7 @@
     "character": 1,
     "tunables": [["50"], ["3"], ["60", "50", "40"]],
     "teachable": 35,
-    "image": "/images/perk_icons/sprint-burst.png"
+    "image": "/images/perk_icons/sprint-burst.webp"
   },
   "StakeOut": {
     "categories": ["strategy"],
@@ -2683,7 +2683,7 @@
     "character": 12,
     "tunables": [["15"], ["2", "3", "4"]],
     "teachable": 40,
-    "image": "/images/perk_icons/stake-out.png"
+    "image": "/images/perk_icons/stake-out.webp"
   },
   "Streetwise": {
     "categories": ["support"],
@@ -2693,7 +2693,7 @@
     "character": 4,
     "tunables": [["60", "70", "80"], ["8"]],
     "teachable": 40,
-    "image": "/images/perk_icons/streetwise.png"
+    "image": "/images/perk_icons/streetwise.webp"
   },
   "Stridor": {
     "categories": ["tracking"],
@@ -2706,7 +2706,7 @@
       ["15", "20", "25"]
     ],
     "teachable": 30,
-    "image": "/images/perk_icons/stridor.png"
+    "image": "/images/perk_icons/stridor.webp"
   },
   "Surge": {
     "categories": ["obstruction"],
@@ -2716,7 +2716,7 @@
     "character": 268435472,
     "tunables": [["6", "7", "8"]],
     "teachable": 30,
-    "image": "/images/perk_icons/surge.png"
+    "image": "/images/perk_icons/surge.webp"
   },
   "Surveillance": {
     "categories": ["obstruction"],
@@ -2726,7 +2726,7 @@
     "character": 268435466,
     "tunables": [["8", "12", "16"], ["8"]],
     "teachable": 35,
-    "image": "/images/perk_icons/surveillance.png"
+    "image": "/images/perk_icons/surveillance.webp"
   },
   "Technician": {
     "categories": ["concealment", "strategy"],
@@ -2736,7 +2736,7 @@
     "character": 8,
     "tunables": [["8"], ["5", "4", "3"]],
     "teachable": 30,
-    "image": "/images/perk_icons/technician.png"
+    "image": "/images/perk_icons/technician.webp"
   },
   "Tenacity": {
     "categories": ["adaptation", "navigation"],
@@ -2746,7 +2746,7 @@
     "character": 12,
     "tunables": [["30", "40", "50"]],
     "teachable": 30,
-    "image": "/images/perk_icons/tenacity.png"
+    "image": "/images/perk_icons/tenacity.webp"
   },
   "TerritorialImperative": {
     "categories": ["tracking"],
@@ -2756,7 +2756,7 @@
     "character": 268435463,
     "tunables": [["4", "5", "6"], ["24"], ["45"]],
     "teachable": 35,
-    "image": "/images/perk_icons/territorial-imperative.png"
+    "image": "/images/perk_icons/territorial-imperative.webp"
   },
   "Thanatophobia": {
     "categories": ["hinderance"],
@@ -2769,7 +2769,7 @@
       ["4", "6", "8"]
     ],
     "teachable": 35,
-    "image": "/images/perk_icons/thanatophobia.png"
+    "image": "/images/perk_icons/thanatophobia.webp"
   },
   "TheMettleOfMan": {
     "categories": ["adaptation"],
@@ -2779,7 +2779,7 @@
     "character": 16,
     "tunables": [["3"], ["12", "14", "16"]],
     "teachable": 40,
-    "image": "/images/perk_icons/mettle-of-man.png"
+    "image": "/images/perk_icons/mettle-of-man.webp"
   },
   "This_Is_Not_Happening": {
     "categories": ["safeguard", "strategy"],
@@ -2789,7 +2789,7 @@
     "character": null,
     "tunables": [["10", "20", "30"]],
     "teachable": 0,
-    "image": "/images/perk_icons/this-is-not-happening.png"
+    "image": "/images/perk_icons/this-is-not-happening.webp"
   },
   "ThrillingTremors": {
     "categories": ["obstruction"],
@@ -2799,7 +2799,7 @@
     "character": 268435471,
     "tunables": [["16"], ["40", "35", "30"]],
     "teachable": 35,
-    "image": "/images/perk_icons/thrilling-tremors.png"
+    "image": "/images/perk_icons/thrilling-tremors.webp"
   },
   "Tinkerer": {
     "categories": ["trickery"],
@@ -2809,7 +2809,7 @@
     "character": 268435458,
     "tunables": [["70"], ["0"], ["12", "14", "16"]],
     "teachable": 40,
-    "image": "/images/perk_icons/tinkerer.png"
+    "image": "/images/perk_icons/tinkerer.webp"
   },
   "TrailofTorment": {
     "categories": ["trickery"],
@@ -2822,7 +2822,7 @@
       "2": ["60", "45", "30"]
     },
     "teachable": 35,
-    "image": "/images/perk_icons/trail-of-torment.png"
+    "image": "/images/perk_icons/trail-of-torment.webp"
   },
   "Unnerving_Presence": {
     "categories": ["hinderance"],
@@ -2832,7 +2832,7 @@
     "character": 268435456,
     "tunables": [["10"], ["40", "50", "60"]],
     "teachable": 30,
-    "image": "/images/perk_icons/unnerving-presence.png"
+    "image": "/images/perk_icons/unnerving-presence.webp"
   },
   "Unrelenting": {
     "categories": ["cruelty"],
@@ -2842,7 +2842,7 @@
     "character": null,
     "tunables": [["20", "25", "30"]],
     "teachable": 0,
-    "image": "/images/perk_icons/unrelenting.png"
+    "image": "/images/perk_icons/unrelenting.webp"
   },
   "Up_The_Ante": {
     "categories": ["support"],
@@ -2852,7 +2852,7 @@
     "character": 6,
     "tunables": [["1", "2", "3"]],
     "teachable": 35,
-    "image": "/images/perk_icons/up-the-ante.png"
+    "image": "/images/perk_icons/up-the-ante.webp"
   },
   "Urban_Evasion": {
     "categories": ["navigation"],
@@ -2862,7 +2862,7 @@
     "character": 4,
     "tunables": [["90", "95", "100"]],
     "teachable": 35,
-    "image": "/images/perk_icons/urban-evasion.png"
+    "image": "/images/perk_icons/urban-evasion.webp"
   },
   "Vigil": {
     "categories": ["support"],
@@ -2872,7 +2872,7 @@
     "character": 11,
     "tunables": [["16"], ["30", "35", "40"], ["15"]],
     "teachable": 40,
-    "image": "/images/perk_icons/vigil.png"
+    "image": "/images/perk_icons/vigil.webp"
   },
   "Visionary": {
     "categories": ["perception"],
@@ -2882,7 +2882,7 @@
     "character": 22,
     "tunables": [["32"], ["16", "18", "20"]],
     "teachable": 30,
-    "image": "/images/perk_icons/visionary.png"
+    "image": "/images/perk_icons/visionary.webp"
   },
   "WakeUp": {
     "categories": ["perception", "strategy"],
@@ -2892,7 +2892,7 @@
     "character": 11,
     "tunables": [["8", "10", "12.5"]],
     "teachable": 30,
-    "image": "/images/perk_icons/wake-up.png"
+    "image": "/images/perk_icons/wake-up.webp"
   },
   "WellMakeIt": {
     "categories": ["safeguard"],
@@ -2902,7 +2902,7 @@
     "character": null,
     "tunables": [["100"], ["30", "60", "90"]],
     "teachable": 0,
-    "image": "/images/perk_icons/well-make-it.png"
+    "image": "/images/perk_icons/well-make-it.webp"
   },
   "WereGonnaLiveForever": {
     "categories": ["support"],
@@ -2912,7 +2912,7 @@
     "character": 9,
     "tunables": [["100"], ["6", "8", "10"], ["30"]],
     "teachable": 30,
-    "image": "/images/perk_icons/were-gonna-live-forever.png"
+    "image": "/images/perk_icons/were-gonna-live-forever.webp"
   },
   "Whispers": {
     "categories": ["tracking"],
@@ -2922,7 +2922,7 @@
     "character": null,
     "tunables": [["48", "40", "32"]],
     "teachable": 0,
-    "image": "/images/perk_icons/whispers.png"
+    "image": "/images/perk_icons/whispers.webp"
   },
   "WindowsOfOpportunity": {
     "categories": ["perception"],
@@ -2935,7 +2935,7 @@
       ["10", "20"]
     ],
     "teachable": 35,
-    "image": "/images/perk_icons/windows-of-opportunity.png"
+    "image": "/images/perk_icons/windows-of-opportunity.webp"
   },
   "ZanshinTactics": {
     "categories": ["chasing"],
@@ -2945,6 +2945,6 @@
     "character": 268435473,
     "tunables": [["32"], ["3", "4", "5"]],
     "teachable": 30,
-    "image": "/images/perk_icons/zanshin-tactics.png"
+    "image": "/images/perk_icons/zanshin-tactics.webp"
   }
 }

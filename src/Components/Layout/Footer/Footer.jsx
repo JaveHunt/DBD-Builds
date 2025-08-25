@@ -5,7 +5,7 @@ const Footer = () => {
       <div
         className="absolute  "
         style={{
-          backgroundImage: "url('/images/background-header.jpeg')",
+          backgroundImage: "url('/images/background-header.webp')",
         }}
       />
       <div className=" flex justify-center items-center gap-1">

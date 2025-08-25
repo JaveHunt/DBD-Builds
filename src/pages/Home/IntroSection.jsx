@@ -1,6 +1,6 @@
 import LazyImage from "../../Components/UI/LazyImage";
 import RoleButtonGroup from "./RoleButtonGroup";
-import clown from "/images/clown.png";
+import clown from "/images/clown.webp";
 
 const IntroSection = () => {
   return (

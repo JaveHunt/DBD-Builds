@@ -1,29 +1,24 @@
 import { useState } from "react";
 import LazyImage from "./LazyImage";
+import DOMPurify from "dompurify";
 
-function formatDescription(description, tunables, level = 0) {
+function formatDescription(description, tunables) {
   if (!tunables) return description;
 
   return description.replace(/\{(\d+)\}/g, (_, index) => {
     const values = tunables[index];
-    return Array.isArray(values) ? values[level] : values;
+    return Array.isArray(values) ? values[values.length - 1] : values;
   });
 }
 
-const PerkTooltip = ({
-  perkImg,
-  perkName,
-  perkDescription,
-  tunables,
-  level = 0,
-}) => {
+const PerkTooltip = ({ perkImg, perkName, perkDescription, tunables }) => {
   const [visible, setVisible] = useState(false);
 
-  const formattedDescription = formatDescription(
-    perkDescription,
-    tunables,
-    level
-  );
+  const formattedDescription = formatDescription(perkDescription, tunables);
+
+  const cleanDescription = DOMPurify.sanitize(formattedDescription, {
+    ALLOWED_TAGS: ["b", "i", "strong", "em", "br", "p", "ul", "li"],
+  });
 
   return (
     <div
@@ -56,7 +51,7 @@ const PerkTooltip = ({
 
         <div
           className="p-2 text-sm max-md:text-[12px] max-h-60 overflow-y-auto break-words custom-scrollbar"
-          dangerouslySetInnerHTML={{ __html: formattedDescription }}
+          dangerouslySetInnerHTML={{ __html: cleanDescription }}
         />
       </div>
 

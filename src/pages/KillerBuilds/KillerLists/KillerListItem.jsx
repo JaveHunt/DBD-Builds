@@ -11,7 +11,7 @@ const KillerListItem = ({ name, portrait, portraitAlt }) => {
         />
         <figcaption
           style={{
-            backgroundImage: "url('/images/killerbtnbg.png')",
+            backgroundImage: "url('/images/killerbtnbg.webp')",
             backgroundSize: "cover",
             backgroundPosition: "center",
             opacity: 0.85,

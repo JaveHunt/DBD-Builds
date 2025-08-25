@@ -1,7 +1,7 @@
 import RoleButton from "../../Components/UI/RoleButton";
-import killerbtnbg from "/images/killerbtnbg.png";
+import killerbtnbg from "/images/killerbtnbg.webp";
 import IconHelpLoading_killer from "/images/Icons/IconHelpLoading_killer.webp";
-import graybtn from "/images/graybtn.png";
+import graybtn from "/images/graybtn.webp";
 import IconHelpLoading_survivor from "/images/Icons/IconHelpLoading_survivor.webp";
 
 const RoleButtonGroup = () => {

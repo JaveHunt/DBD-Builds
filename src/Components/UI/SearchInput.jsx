@@ -10,7 +10,7 @@ const SearchInput = ({ searchTerm, setSearchTerm }) => {
   return (
     <div
       style={{
-        borderImage: "url('/images/killerbtnbg.png')",
+        borderImage: "url('/images/killerbtnbg.webp')",
         borderImageSlice: 12,
       }}
       className="w-[288px] flex items-center border-2 sm:w-[350px] my-6"

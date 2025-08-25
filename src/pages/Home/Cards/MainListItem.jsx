@@ -29,7 +29,7 @@ const MainListItem = ({ img, alt, tag, title, description, link }) => {
             <RoleButton
               className="w-full justify-center"
               label="See More"
-              bgImage="/images/killerbtnbg.png"
+              bgImage="/images/killerbtnbg.webp"
               link={link}
             />
           </div>

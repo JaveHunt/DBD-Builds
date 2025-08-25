@@ -1,7 +1,7 @@
 export const mainCardsData = [
   {
     id: 1,
-    img: "/images/springtraptest.jpg",
+    img: "/images/springtraptest.webp",
     alt: "Card Image",
     tag: "BUILDS",
     title: "Best Killer Builds",
@@ -11,7 +11,7 @@ export const mainCardsData = [
   },
   {
     id: 2,
-    img: "/images/survivors.jpg",
+    img: "/images/survivors.webp",
     alt: "Card Image",
     tag: "BUILDS",
     title: "Best Survivor Builds",
@@ -21,7 +21,7 @@ export const mainCardsData = [
   },
   {
     id: 3,
-    img: "/images/randombuilds.jpg",
+    img: "/images/randombuilds.webp",
     alt: "Card Image",
     tag: "BUILD GENERATOR",
     title: "Build Generator",

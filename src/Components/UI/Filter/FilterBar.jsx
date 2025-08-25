@@ -11,7 +11,7 @@ const FilterBar = ({ activeFilter, setActiveFilter }) => {
           label={filter}
           isActive={activeFilter === filter}
           onClick={() => setActiveFilter(filter)}
-          bgImage="/images/killerbtnbg.png"
+          bgImage="/images/killerbtnbg.webp"
         />
       ))}
     </div>

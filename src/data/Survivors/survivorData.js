@@ -3,7 +3,7 @@ import perksData from "../perks.json";
 export const survivorData = [
   {
     id: 1,
-    img: "/images/survivor/beginners.jpg",
+    img: "/images/survivor/beginners.webp",
     alt: "Survivor Icon",
     title: "Beginner Builds",
     pageTitle: "Best Beginner Builds",
@@ -77,7 +77,7 @@ export const survivorData = [
   },
   {
     id: 2,
-    img: "/images/survivor/healBuilds.jpg",
+    img: "/images/survivor/healBuilds.webp",
     alt: "Heal Icon",
     title: "Heal Builds",
     pageTitle: "Best Heal Builds",
@@ -151,7 +151,7 @@ export const survivorData = [
   },
   {
     id: 3,
-    img: "/images/survivor/genRush.jpg",
+    img: "/images/survivor/genRush.webp",
     alt: "Toolbox Icon",
     title: "Gen Rush Builds",
     pageTitle: "Best Gen Rush Builds",
@@ -225,7 +225,7 @@ export const survivorData = [
   },
   {
     id: 4,
-    img: "/images/survivor/chase.jpg",
+    img: "/images/survivor/chase.webp",
     alt: "Sprint Burst Icon",
     title: "Chase Builds",
     pageTitle: "Best Chase Builds",
