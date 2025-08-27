@@ -21,7 +21,7 @@ const BuildGeneratorContainer = () => {
 
   return (
     <ContentWrapper>
-      <div className="flex gap-6 flex-col m-auto bg-[#252525] bg-opacity-60 p-5 max-md:p-3 rounded-2xl">
+      <div className="lg:w-[800px] flex gap-6 flex-col m-auto bg-[#252525] bg-opacity-60 p-5 max-md:p-3 rounded-2xl shadow">
         <h2 className="text-center text-2xl uppercase font-semibold">
           Generate a Build
         </h2>

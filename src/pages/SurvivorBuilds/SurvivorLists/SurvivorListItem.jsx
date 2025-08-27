@@ -31,6 +31,7 @@ const SurvivorListItem = ({ survivor }) => {
                       perkDescription={perk.description}
                       tunables={perk.tunables}
                       level={0}
+                      className="md:w-[120px] max-md:w-[120px]"
                     />
                   </li>
                 )

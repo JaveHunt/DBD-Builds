@@ -25,6 +25,7 @@ const KillerBuildsListItem = ({ build, rating }) => {
                   perkDescription={perk.description}
                   tunables={perk.tunables}
                   level={0}
+                  className="md:w-[120px] max-md:w-[120px]"
                 />
               </li>
             )

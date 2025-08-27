@@ -16,7 +16,7 @@ const PerkTooltip = ({
   perkName,
   perkDescription,
   tunables,
-  className = "",
+  className,
 }) => {
   const [visible, setVisible] = useState(false);
 
@@ -35,8 +35,7 @@ const PerkTooltip = ({
       <LazyImage
         src={perkImg}
         alt={perkName}
-        width={120}
-        className="cursor-pointer rounded-lg md:w-[120px] max-md:w-[120px]"
+        className={`cursor-pointer rounded-lg ${className}`}
       />
 
       <div
