@@ -11,7 +11,13 @@ function formatDescription(description, tunables) {
   });
 }
 
-const PerkTooltip = ({ perkImg, perkName, perkDescription, tunables }) => {
+const PerkTooltip = ({
+  perkImg,
+  perkName,
+  perkDescription,
+  tunables,
+  className = "",
+}) => {
   const [visible, setVisible] = useState(false);
 
   const formattedDescription = formatDescription(perkDescription, tunables);
@@ -22,7 +28,7 @@ const PerkTooltip = ({ perkImg, perkName, perkDescription, tunables }) => {
 
   return (
     <div
-      className="relative inline-block"
+      className={`relative inline-block ${className}`}
       onMouseEnter={() => setVisible(true)}
       onMouseLeave={() => setVisible(false)}
     >
@@ -50,7 +56,7 @@ const PerkTooltip = ({ perkImg, perkName, perkDescription, tunables }) => {
         </div>
 
         <div
-          className="p-2 text-sm max-md:text-[12px] max-h-60 overflow-y-auto break-words custom-scrollbar"
+          className="p-2 text-sm max-md:text-[12px] max-h-45 overflow-y-auto break-words custom-scrollbar"
           dangerouslySetInnerHTML={{ __html: cleanDescription }}
         />
       </div>
